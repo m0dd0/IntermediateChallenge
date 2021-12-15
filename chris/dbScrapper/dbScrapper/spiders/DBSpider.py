@@ -7,7 +7,25 @@ class QuotesSpider(scrapy.Spider):
     def start_requests(self):
         urls = [
             ['Karlsruhe Hbf', 'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
-            ['Rastatt', 'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Rastatt&boardType=dep&start=Suche']
+            ['Karlsruhe Hbf', 'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
+            ['Karlsruhe Hbf',
+             'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
+            ['Karlsruhe Hbf',
+             'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
+            ['Karlsruhe Hbf',
+             'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
+            ['Karlsruhe Hbf',
+             'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
+            ['Karlsruhe Hbf',
+             'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
+            ['Karlsruhe Hbf',
+             'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
+            ['Karlsruhe Hbf',
+             'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
+            ['Karlsruhe Hbf',
+             'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
+            ['Karlsruhe Hbf',
+             'https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?country=DEU&protocol=https:&rt=1&input=Karlsruhe&boardType=dep&start=Suche'],
         ]
         for url in urls:
             request = scrapy.Request(url=url[1], callback=self.parse)
@@ -20,7 +38,7 @@ class QuotesSpider(scrapy.Spider):
 
         for row in table:
 
-            result = {'station': response.meta['station'], 'train': row.css('td.train a::text').get(), 'platform': '', 'route': '', 'delayTime': '',
+            result = {'station': response.meta['station'], 'time': row.css('td.time::text').get(), 'train': row.css('td.train a::text').get(), 'platform': '', 'route': '', 'delayTime': '',
                       'information': ''}
 
             try:
@@ -42,7 +60,7 @@ class QuotesSpider(scrapy.Spider):
 
             if delayTime == '':
                 delayTime = row.css('td.ris span.red::text').get()
-                result['delayReason'] = row.css('td.ris span.delay.bold::text').get()
+                result['information'] = row.css('td.ris span.delay.bold::text').get()
 
             result['delayTime'] = delayTime
 
