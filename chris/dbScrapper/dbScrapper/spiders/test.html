@@ -1,0 +1,413 @@
+'
+<div id="doc" style="height:100%;">\n
+    <div id="login-state-bar-container"></div>
+    \n
+    <div id="header">\n
+        <div id="logo">\n<a href="https://www.bahn.de/app_home_pk_de_DEU.shtml">\n<img src="https://www.img-bahn.de/s3/prod/v/img_old/db_em
+_rgb_32px.png" width="46" height="32" alt="DB Bahn">\n</a>\n
+        </div>
+        \n
+        <div id="header-elements" class="clearfix">\n
+            <div id="font-sizer">\n<a href="https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?&amp;font-size=0"
+                                      tabindex="40" class
+                                              ="font-normal" title="Normale Schriftgröße">A</a><span>,</span>\n<a
+                    href="https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?&amp;font-size=1" tabindex="50"
+                    class="font-large" title="Große Schrift">A</a><span>,</span>\n<a href="https
+://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?&amp;font-size=2" tabindex="60" class="font-xl" title="Sehr große Schrift">A</a>\n
+            </div>
+            \n
+            <form id="country-selector" name="formChangeLanguage" action="/bin/bhftafel.exe/dn?ld=4340&amp;pr
+otocol=https:&amp;rt=1&amp;newrequest=yes&amp;" method="post" style="margin-right:22px;">\n
+                <p class="button-inside clearfix" style="white-space: nowrap; background: none; padding: 0;">\n<label
+                        for="language" class="langLabel">Sprach
+                    auswahl</label>\n<select id="language" name="language" tabindex="70"
+                                             style="vertical-align: bottom;">\n
+                    <option value="c&amp;country=CZE" class="">Česky</option>
+                    \n
+                    <option value="m&amp;country=DNK" class="">Dansk</option>
+                    \n
+                    <option val
+                            ue="d&amp;country=DEU" class="hideOption" selected>Deutsch
+                    </option>
+                    \n
+                    <option value="e&amp;country=GBR" class="">English</option>
+                    \n
+                    <option value="h&amp;country=ESP" class="">Español</option>
+                    \n
+                    <option value="f&amp;country=FRA" class="
+">Français
+                    </option>
+                    \n
+                    <option value="i&amp;country=ITA" class="">Italiano</option>
+                    \n
+                    <option value="n&amp;country=NLD" class="">Nederlands</option>
+                    \n</select>\n<span id="language-select-button" class="button-border button-normal butto
+n-arrow">\n<button type="submit" title="Sprache ändern">\n<span>\xa0</span>\n</button>\n</span>\n
+                </p>
+                \n
+            </form>
+            \n
+            <ul id="service-nav" class="clearfix">\n
+                <li><a href="https://www.bahn.de/app_home_pk_de_DEU.shtml">Startseite</a></li>
+                \n
+                <li><a href="https://www.bahn.de/app_hilfe_pk_de_DEU.shtml" tabindex="20" target="_blank" class="first">Hilfe\xa0&amp;\xa0Kontakt</a>
+                </li>
+                \n
+            </ul>
+            \n
+        </div>
+        \n
+    </div>
+    \n
+    <div id="main-nav" class="clearfix">\n<h2 class="mainNaviHeadingCorre
+ction">Hauptnavigation</h2>\n
+        <ul id="main-nav-left">\n
+            <li><a></a></li>
+            \n
+        </ul>
+        \n
+        <ul id="main-nav-right">\n
+            <li id="mn-meinebahn"><a class=""
+                                     href="https://fahrkarten.bahn.de/privatkunde/start/start.post?lang=de&amp;country=DEU&amp;sco
+pe=meinebahn" title="Meine Bahn"><span>Meine Bahn</span></a></li>
+            \n
+        </ul>
+        \n
+    </div>
+    \n
+    <div id="content" class="clearfix">\n
+        <div id="hafasContainer" class="">\n
+            <div class="hafasContent sq_query">\n<h1 class="pagetitle">Abfahrt und Ankunf
+                t</h1>\n
+                <form action="https://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?ld=4340&amp;protocol=https:&amp;rt=1&amp;"
+                      id="sqQueryForm" name="formular" method="post" style="display:inline;"
+                      onsubmit="return replaceB();">\n
+                    <div id="sqQue
+ry" class="clearfix">\n
+                        <div class="leftBlock ">\n
+                            <fieldset>\n<label class="front wrap" for="HFS_input">Bahnhof / Haltestelle</label>\n<input
+                                    type="text" id="rplc0" name="input" value="" size="40" maxlength="60">\n
+                                <script type="text/
+javascript">\n<!--\nrplcArray = new Array();\nrplcArray[0] = "rplc0";\nnew FSuggest({loc:"rplc0",\ntype:"S",\nminChar:4,\nrequestURL:"https://reiseauskunft.bahn.de/bin/ajax-getstop.exe/dn?REQ0JourneyStopsS0A=1&REQ0JourneyStopsS0G=",
+\nstopDelay:400,\nrequestType:"js"\n,metaBhfAllowed:false\n});\n// -->\n
+                                </script>
+                                \n<br>\n
+                            </fieldset>
+                            \n
+                            <fieldset>\n<label class="front" for="HFS_selectDate">Datum / Zeit</label>\n<img src="https://www.img-bahn.de/s3/prod/v/img_old/bl
+aettern_links_16x16.png" height="16" width="16" border="0" onclick="calman.shiftDate(\'callink0\',-1);"
+                                                                                                             style="margin:0;vertical-align:middle; border: none;"
+                                                                                                             class="pointer"
+                                                                                                             alt="Einen Tag früher"
+                                                                                                             title="Einen Tag früher">\n<input
+                                    c
+                                    lass="emphasized" style="margin-right: 0;" type="text" name="date" id="date"
+                                    value="Di, 14.12.21" size="10" maxlength="14"
+                                    onblur="javascript:this.notify(this);">\n<img src="https://www.img-bahn.de/s3/prod/v/img_old/blaettern_rechts
+_16x16.png" height="16" width="16" border="0" onclick="calman.shiftDate(\'callink0\',1);"
+                                                                                  style="margin:0;vertical-align:middle; border: none;"
+                                                                                  class="pointer" alt="Einen Tag später"
+                                                                                  title="Einen Tag später">\n<span
+                                    class="jsShowInl
+ine" style="position: relative;">\n<script type="text/javascript">\nvar
+                            monthsTexts = new Array("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember");\nvar
+                            weekdayTexts = new Arr
+                            ay("Mo", "Di", "Mi", "Do", "Fr", "Sa", "So");\nvar
+                            closeText = "Schließen";\n</script>\n\xa0<a id="callink0"
+                                                                        onclick="return calman.toggleDisplay(\'callink0\');"
+                                                                        class="calendar"><img src="https://www.img-bahn.de/s3/prod/v/img_old/kalende
+r_21x16.gif" width="21" height="16" title="Kalender" alt="Kalender" id="calendarlinkicon0"></a>\n<script
+                                    type="text/javascript">\ncalman.config = {\n
+                            "today"
+                            :
+                            parseUserDateInput("14.12.21"),\n
+                            "viewPeriodS"
+                            :
+                            parseUserD
+                            ateInput("13.12.20"),\n
+                            "viewPeriodE"
+                            :
+                            parseUserDateInput("10.12.22"),\n
+                            "dataPeriodS"
+                            :
+                            parseUserDateInput("13.12.20"),\n
+                            "dataPeriodE"
+                            :
+                            parseUserDateInput("10.12.22"),\n
+                            "monthsTexts"
+                            :
+                            monthsTexts,\n
+                            "weekdaysTexts"
+                            :
+                            weekdayTexts,\n
+                            "closeText"
+                            :
+                            closeText,\n
+                            "showShortYear"
+                            :
+                            true,\n
+                            "styleClass"
+                            :
+                            "calendardiv"\n
+                            }\nvar
+                            calcon_config = {\n
+                            "formName"
+                            :
+                            "document.formular",\n
+                            "fieldName"
+                            :
+                            "date",\n
+                            "referenceObject"
+                            :
+                            "c
+                            allink0
+                            "\n}\ncalman.createCalendar(calcon_config);\n</script>\n</span>\n<img
+                                    src="https://www.img-bahn.de/s3/prod/v/img_old/blaettern_links_16x16.png"
+                                    height="16" width="16" border="0" onclick="shiftTime(\'HFS_time\',-1);" class="po
+inter" style="margin:0;vertical-align:middle; border: none;" alt="Zurück zur vollen Stunde"
+                                    title="Zurück zur vollen Stunde">\n<input style="margin-right: 0;" type="text"
+                                                                              id="HFS_time" name="time" value="17:22"
+                                                                              size="8" maxlength="2
+0">\n<img src="https://www.img-bahn.de/s3/prod/v/img_old/blaettern_rechts_16x16.png" height="16" width="16" border="0"
+          onclick="shiftTime(\'HFS_time\',1);" class="pointer" style="margin:0;vertical-align:middle; border: none;"
+          alt="W
+eiter zur vollen Stunde" title="Weiter zur vollen Stunde">\n<span id="changeTime"
+                                                                  class="nowrap jsShowInline nopadding sqTimeChange"
+                                                                  style="position: relative;  margin-left: 5px;">\n\xa0\n</span>\n<br>\n<input
+                                    class="leftMargin radi
+o" type="radio" id="dep" name="boardType" value="dep" checked><label for="dep">Abfahrt</label>\n<input class="radio"
+                                                                                                       type="radio"
+                                                                                                       id="arr"
+                                                                                                       name="boardType"
+                                                                                                       value="arr"><label
+                                    for="arr">Ankunft</label>\n<br>\n
+                            </fieldset>
+                            \n
+                        </div>
+                        \n
+                        <di
+                                v class="rightBlock">\n
+                            <fieldset>\n<label class="front" for="HFS_trainName">Linie / Zugnummer
+                                (optional)</label>\n<input type="text" id="HFS_trainName" name="REQTrain_name" value=""
+                                                           size="15" maxlength="15">\n<br>\n
+                            </fieldset>
+                            \n
+                            <fie
+                                    ldset>\n<input type="hidden" name="advancedProductMode">\n
+                                <table class="products">\n
+                                    <tr class="icons">\n
+                                        <td>\xa0</td>
+                                        \n
+                                        <td><label for="prod_0"><img
+                                                src="https://www.img-bahn.de/s3/prod/v/img_old/ice_24x24.gif"
+                                                alt="ICE-Züge" title="
+ICE-Züge" width="24" height="24"></label></td>
+                                        \n
+                                        <td><label for="prod_1"><img
+                                                src="https://www.img-bahn.de/s3/prod/v/img_old/ec_ic_24x24.gif"
+                                                alt="Intercity- und Eurocityzüge" title="Intercity- und Eurocityzüge"
+                                                width="24" height="24
+"></label></td>
+                                        \n
+                                        <td><label for="prod_2"><img
+                                                src="https://www.img-bahn.de/s3/prod/v/img_old/ir_24x24.gif"
+                                                alt="Interregio- und Schnellzüge" title="Interregio- und Schnellzüge"
+                                                width="24" height="24"></label></td>
+                                        \n
+                                        <td><label for="p
+rod_3"><img src="https://www.img-bahn.de/s3/prod/v/img_old/re_24x24.gif" alt="Nahverkehr, sonstige Züge"
+            title="Nahverkehr, sonstige Züge" width="24" height="24"></label></td>
+                                        \n
+                                        <td><label for="prod_4"><img src="https://www.img-bahn.
+de/s3/prod/v/img_old/sbahn_24x24.gif" alt="S-Bahn" title="S-Bahn" width="24" height="24"></label></td>
+                                        \n
+                                        <td><label for="prod_5"><img
+                                                src="https://www.img-bahn.de/s3/prod/v/img_old/bus_24x24.gif"
+                                                alt="Busse" title="Busse" width="24"
+                                                height="24"></label></td>
+                                        \n
+                                        <td><label for="prod_6"><img
+                                                src="https://www.img-bahn.de/s3/prod/v/img_old/faehre_24x24.gif"
+                                                alt="Schiffe" title="Schiffe" width="24" height="24"></label></td>
+                                        \n
+                                        <td><label for="prod_7"><img src="https://w
+ww.img-bahn.de/s3/prod/v/img_old/ubahn_24x24.gif" alt="U-Bahnen" title="U-Bahnen" width="24" height="24"></label></td>
+                                        \n
+                                        <td><label for="prod_8"><img
+                                                src="https://www.img-bahn.de/s3/prod/v/img_old/tram_24x24.gif"
+                                                alt="Straßenbahnen"
+                                                title="Straßenbahnen" width="24" height="24"></label></td>
+                                        \n
+                                        <td><label for="prod_9"><img
+                                                src="https://www.img-bahn.de/s3/prod/v/img_old/taxi_24x24.gif"
+                                                alt="Anruf-Sammeltaxi" title="Anruf-Sammeltaxi" width="24" height="24"></label><
+                                            /td>\n
+                                    </tr>
+                                    \n
+                                    <tr class="cb">\n
+                                        <td>\n<label class="front" for="prod_0">Verkehrsmittel</label>\n</td>
+                                        \n
+                                        <td>\n<input id="prod_0" class="checkbox " type="checkbox"
+                                                     name="GUIREQProduct_0" title="ICE-Züge" checked>\n
+                                        </td>
+                                        \n
+                                        <td>\n<input id
+                                                             ="prod_1" class="checkbox " type="checkbox"
+                                                     name="GUIREQProduct_1" title="Intercity- und Eurocityzüge" checked>\n
+                                        </td>
+                                        \n
+                                        <td>\n<input id="prod_2" class="checkbox " type="checkbox"
+                                                     name="GUIREQProduct_2" title="Interregio- und Schnell
+züge" checked>\n
+                                        </td>
+                                        \n
+                                        <td>\n<input id="prod_3" class="checkbox " type="checkbox"
+                                                     name="GUIREQProduct_3" title="Nahverkehr, sonstige Züge" checked>\n
+                                        </td>
+                                        \n
+                                        <td>\n<input id="prod_4" class="checkbox " type="checkbox" name="GUIREQProdu
+ct_4" title="S-Bahn" checked>\n
+                                        </td>
+                                        \n
+                                        <td>\n<input id="prod_5" class="checkbox " type="checkbox"
+                                                     name="GUIREQProduct_5" title="Busse">\n
+                                        </td>
+                                        \n
+                                        <td>\n<input id="prod_6" class="checkbox " type="checkbox"
+                                                     name="GUIREQProduct_6" title="
+Schiffe">\n
+                                        </td>
+                                        \n
+                                        <td>\n<input id="prod_7" class="checkbox " type="checkbox"
+                                                     name="GUIREQProduct_7" title="U-Bahnen">\n
+                                        </td>
+                                        \n
+                                        <td>\n<input id="prod_8" class="checkbox " type="checkbox"
+                                                     name="GUIREQProduct_8" title="Straßenbahnen">\n
+                                        </td>
+                                        \n
+                                        <td>\n<input id="prod_9" class="checkbox " type="checkbox"
+                                                     name="GUIREQProduct_9" title="Anruf-Sammeltaxi">\n
+                                        </td>
+                                        \n
+                                    </tr>
+                                    \n
+                                </table>
+                                \n</fieldset>\n
+                    </div>
+                    \n
+            </div>
+            \n
+            <p class="floatRight button-inside querybutton">\n<span class="
+button-border">\n<button type="submit" class="highlight" name="start" value="Suchen" title="Suchen"></button>\n<span>Suchen</span>\n\n</span>\n
+            </p>
+            \n<p class="button-inside clearfix querybutton">\n<span class="button-border button-n
+ormal">\n<a class="highlight" href="" title="Alle Eingaben löschen">Eingaben löschen</a>\n</span>\n</p>\n</form>\n
+            <script type="text/javascript">\ndigitalData.suchparameter.start = new Object();\nif(typeof (tmpDiv) == "undefined")\nt
+            mpDiv = document.createElement("div");\ntmpDiv.innerHTML = "";\ndigitalData.suchparameter.start.name = tmpDiv.innerHTML;\ndigitalData.suchparameter.start.eBhf = "";\ndigitalData.suchparameter.start.typ = "Haltestelle";\ndigitalData.suchparameter.reisedatumHin = "2021-12-14";\ndigitalData.suchparameter.reisezeitHinVon = "17:22";\ndigitalData.suchparameter.hIstAnkunft = "0";\ndigitalData.suchparameter.reiseparameterH = new Array();\nvar
+            reiseprodukte = new Objec
+            t();\nreiseprodukte.ICE = 1;\nreiseprodukte.IC_EC = 1;\nreiseprodukte.IR = 1;\nreiseprodukte.RE_RB = 1;\nreiseprodukte.S = 1;\nreiseprodukte.Bus = 0;\nreiseprodukte.Schiff = 0;\nreiseprodukte.U = 0;\nreiseprodukte.Tram = 0;\nreisepr
+            odukte.AST = 0;\ndigitalData.suchparameter.reiseparameterH.push({reiseprodukte: reiseprodukte});\n</script>
+            \n
+        </div>
+        \n
+        <div id="hafasContentEnd">\xa0</div>
+        \n
+    </div>
+    \n
+    <div id="hafasLegend" class="">\n
+        <div class="content">\n
+            <div class="f
+loatRight">
+                <div class="clearfix legendtext right">Alle <a
+                        href="https://www.bahn.de/app_hilfe_angabengewaehr_pk_de_DEU.shtml"
+                        onclick="popUp(\'about:blank\',\'angaben\',\'cms\');" target="angaben">Angaben</a> ohne Gewähr.
+                </div>
+            </div
+            >
+            \n
+            <div class="woIcon clearfix">\xa0</div>
+            \n
+            <div class="woIcon clearfix">\xa0</div>
+            \n
+        </div>
+        \n
+        <div class="end">\n</div>
+        \n
+    </div>
+    \n
+    <div id="hafasSystembar" class="box site-actions">\n
+        <ul class="clearfix">\n
+            <li><a href="javascript:windo
+w.print(self)" id="link-print">Seite drucken</a></li>
+            \n
+            <li><a href="#" id="link-top">Zum Seitenanfang</a></li>
+            \n
+        </ul>
+        \n
+    </div>
+    \n
+</div>\n
+<div id="footer">\n<!-- Footer navigation --> \n
+    <div id="footer-nav">\n
+        <ul>\n
+            <li><span>©\xa0Deutsc
+he\xa0Bahn\xa0AG</span></li>
+            \n
+            <li><a href="https://www.bahn.de/app_impressum_pk_de_DEU.shtml" target="_blank">Impressum</a></li>
+            \n
+            <li><a href="https://www.bahn.de/app_agb_pk_de_DEU.shtml" target="_blank">AGB</a></li>
+            \n
+            <li><a href="h
+ttps://www.bahn.de/app_nutzung_pk_de_DEU.shtml" target="_blank">Nutzungsbedingungen</a></li>
+            \n
+            <li><a href="https://www.bahn.de/app_datenschutz_pk_de_DEU.shtml" target="_blank">Datenschutz</a></li>
+            \n
+            <li><a href="http://www.deutscheba
+hn.com" target="_blank">www.deutschebahn.com</a></li>
+            \n
+        </ul>
+        \n
+    </div>
+    \n
+    <form method="get" action="/">\n
+        <fieldset>\n<input type="hidden" name="bufferUpdater" id="bufferUpdater" disabled value="">\n</fieldset>
+        \n
+    </form>
+    \n
+    <div class="bar
+"></div>
+    \n
+    <!-- Softwareversion/Datenstand: 5.45.DB.R21.12.m (customer/hcudb/release/21.12.m.0) [Nov 21 2021] [5.45.DB.R21.12.m (customer/hcudb/release/21.12.m.0) [Nov 21 2021]/21.12.19(2.64)_data:415b8149] 4340 -->
+    \n
+</div>\n
+<div cla
+     ss="webtrack">\n<!-- SiteCatalyst Version: H.20.3. Copyright 1996-2009 Adobe, Inc. All Rights Reserved--> \n
+    <script language="JavaScript">var s_account = "dbbahnprod";</script>
+    \n
+    <script language="JavaScript" type="text/javascript" src=
+            "https://www.img-bahn.de/s3/prod/v/js_old/s_code.min.js"></script>
+    \n
+    <script language="JavaScript"
+            type="text/javascript"><!--\ns.pageName = "BAHN_ASK_DEU_de_BAHN_AuskunftAnkunftAbfahrtAnfrage";\ns.channel = "BAHN_ASK_DEU_de_BAHN";\n/*
+ Conversion Variables */\n/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! *************/\nvar
+    s_code = s.t();
+    if (s_code) document.write(s_code)//--></script>
+    \n
+    <script language="JavaScript" type="text/javascript"><!--\nif(navigato
+    r.appVersion.indexOf(\'MSIE\')>=0)document.write(unescape(\'%3C\')+\'\\!-\'+\'-\')\n//--></script>
+    \n
+    <noscript><img src="https://st.bahn.de/b/ss/dbbahnprod/1/H.20.3--NS/2036463404?pageName=BAHN_ASK_DEU_de_BAHN_AuskunftAnkunftAbfahrtA
+nfrage&amp;ch=BAHN_ASK_DEU_de_BAHN&amp;" height="1" width="1" border="0" alt=""></noscript><!--/NICHT\nENTFERNEN/-->\n
+    <!-- End SiteCatalyst Code Version: H.20.3. --> \n
+    <script type="text/javascript">\nvar
+    utag_data = {\n
+    }\nwindow.con
+    sentLayer = {variables: {impressum: \'https://www.bahn.de/app_impressum_pk_de_DEU.shtml\', datenschutz: \'https://www.bahn.de/app_datenschutz_pk_de_DEU.shtml\' } };\n</script>
+    \n
+    <script type="text/javascript">\n(function (a, b, c, d) {\
+na =\'https://www.bahn.de/media/view/tms/utag.js?v=1\';\nb=document;c=\'script\';d=b.createElement(c);d.src=a;d.type=\'text/java\'+c;d.async=true;d.charset=\'utf-8\';\na=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);\n}
+    )
+        ();\n</script>
+    \n
+</div>\n</div>'
