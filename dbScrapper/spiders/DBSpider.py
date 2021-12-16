@@ -1,4 +1,6 @@
 import scrapy
+import datetime
+from helper import *
 
 
 class QuotesSpider(scrapy.Spider):
@@ -39,47 +41,35 @@ class QuotesSpider(scrapy.Spider):
         for url in urls:
             request = scrapy.Request(url=url[1], callback=self.parse)
             request.meta['station'] = url[0]
-            request.meta['time'] = url[0]
             yield request
 
-
     def parse(self, response):
+
+        # get the table from the response object
         table = response.css('table.result.stboard.dep tr')
 
+        # iterate the table rows
         for row in table:
 
-            result = {'station': response.meta['station'], 'time': row.css('td.time::text').get(), 'train': row.css('td.train a::text').get(), 'platform': '', 'route': '', 'delayTime': '',
-                      'information': ''}
-
-            try:
-                result['route'] = row.css('td.route::text').getall()[2]
-            except:
-                result['route'] = ''
-
-            platform = row.css('td.platform strong::text').get()
-            if platform is None:
-                platform = row.css('td.platform strong span.red::text').get()
-                if platform is None:
-                    try:
-                        platform = row.css('td.platform::text').getall()[1]
-                    except:
-                        platform = ''
-            result['platform'] = platform
-
-            delayTime = row.css('td.ris span.delay.bold::text').get()
-
-            if delayTime == '':
-                delayTime = row.css('td.ris span.red::text').get()
-                result['information'] = row.css('td.ris span.delay.bold::text').get()
-
-            result['delayTime'] = delayTime
+            # define the result object and fill it with data in subsequent steps
+            result = {'station': response.meta['station'],
+                      'time': row.css('td.time::text').get(),
+                      'train': get_train(row),
+                      'platform': get_platform(row),
+                      'route': get_route(row),
+                      'delayTime': get_delay_time(row),
+                      'information': get_delay_info(row),
+                      'timestampScraping': datetime.now()}
 
             for key in result:
                 if isinstance(result[key], str):
-                    result[key] = " ".join(result[key].split())
+
+                    # remove multiple whitespace in the result and sequences like \n
+                    trimmed = " ".join(result[key].split())
+
+                    # replace Unicode characters like ä
+                    trimmed = trimmed
+
+                    result[key] = trimmed
 
             yield result
-
-        #for entry in response.css('table.result.stboard.dep').get():
-
-            #print(entry)
