@@ -6,8 +6,25 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
+from scrapy.exceptions import DropItem
 
 
 class DbscrapperPipeline:
+
     def process_item(self, item, spider):
-        return item
+        print(item)
+        if item['train'] is None:
+            raise DropItem()
+        else:
+            for key in item:
+                if isinstance(item[key], str):
+
+                    # remove multiple whitespace in the result and sequences like \n
+                    trimmed = " ".join(item[key].split())
+
+                    # replace Unicode characters like ä
+                    #trimmed = trimmed.decode('unicode-escape')
+
+                    item[key] = trimmed
+
+            return item

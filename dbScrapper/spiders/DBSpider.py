@@ -1,9 +1,9 @@
 import scrapy
 import datetime
 from helper import *
+import time
 
-
-class QuotesSpider(scrapy.Spider):
+class DBSpider(scrapy.Spider):
     name = "db"
 
     def start_requests(self):
@@ -41,6 +41,7 @@ class QuotesSpider(scrapy.Spider):
         for url in urls:
             request = scrapy.Request(url=url[1], callback=self.parse)
             request.meta['station'] = url[0]
+            time.sleep(3)
             yield request
 
     def parse(self, response):
@@ -50,26 +51,12 @@ class QuotesSpider(scrapy.Spider):
 
         # iterate the table rows
         for row in table:
-
             # define the result object and fill it with data in subsequent steps
-            result = {'station': response.meta['station'],
-                      'time': row.css('td.time::text').get(),
-                      'train': get_train(row),
-                      'platform': get_platform(row),
-                      'route': get_route(row),
-                      'delayTime': get_delay_time(row),
-                      'information': get_delay_info(row),
-                      'timestampScraping': datetime.now()}
-
-            for key in result:
-                if isinstance(result[key], str):
-
-                    # remove multiple whitespace in the result and sequences like \n
-                    trimmed = " ".join(result[key].split())
-
-                    # replace Unicode characters like ä
-                    trimmed = trimmed
-
-                    result[key] = trimmed
-
-            yield result
+            yield {'station': response.meta['station'],
+                   'time': row.css('td.time::text').get(),
+                   'train': get_train(row),
+                   'platform': get_platform(row),
+                   'route': get_route(row),
+                   'delayedTime': get_delay_time(row),
+                   'information': get_info(row),
+                   'timestampScraping': datetime.datetime.now()}
