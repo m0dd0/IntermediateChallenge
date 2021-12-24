@@ -1,1 +1,1 @@
-scrapy crawl db_multi_station -o test.csv
+scrapy crawl db_multi_station -o ./data/test.csv -a stations="$(<./dbScrapper/stations.json)"

@@ -1,0 +1,530 @@
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Karlsruhe Hbf,14:47,STR 2,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 14:47 - Ebertstraße, Karlsruhe 14:48",14:48,,2021-12-24 14:47:31.270612
+Karlsruhe Hbf,14:47,Bus 55,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 14:47 - Ebertstraße, Karlsruhe 14:49 - Kolpingplatz, Karlsruhe 14:51 - Südendschule, Karlsruhe 14:53",,,2021-12-24 14:47:31.272243
+Karlsruhe Hbf,14:47,S 8,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 14:47 - Poststraße, Karlsruhe 14:48",14:47,,2021-12-24 14:47:31.273639
+Karlsruhe Hbf,14:48,Bus 55,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 14:48 - Ebertstraße, Karlsruhe 14:49 - Kolpingplatz, Karlsruhe 14:51 - Südendschule, Karlsruhe 14:53",14:48,,2021-12-24 14:47:31.274978
+Karlsruhe Hbf,14:50,S 32,8,Karlsruhe Hbf 14:50 - Karlsruhe-Durlach 14:56,,,2021-12-24 14:47:31.276156
+Karlsruhe Hbf,14:51,ICE 72,3,Karlsruhe Hbf 14:51 - Mannheim Hbf 15:14 - Frankfurt(Main)Hbf 15:52 - Kassel-Wilhelmshöhe 17:19 - Göttingen 17:38 - Hannover Hbf 18:17 - Hamburg Hbf 19:35 - Hamburg Dammtor 19:41 - Hamburg-Altona 19:50,14:51,,2021-12-24 14:47:31.277674
+Karlsruhe Hbf,14:52,STR 2,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 14:52 - Poststraße, Karlsruhe 14:53",14:53,,2021-12-24 14:47:31.278912
+Karlsruhe Hbf,14:53,Bus 47,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 14:53 - Poststraße, Karlsruhe 14:54 - Durlach Zündhütle, Karlsruhe 15:01 - Wolfartsweier Nord, Karlsruhe 15:02",,,2021-12-24 14:47:31.280131
+Karlsruhe Hbf,14:53,S 1,Karlsruhe Bahnhofsvorplatz,Karlsruhe Bahnhofsvorplatz 14:53 - Karlsruhe Albtalbahnhof 14:54,14:53,,2021-12-24 14:47:31.281431
+Karlsruhe Hbf,14:54,TGV 9583,4,Karlsruhe Hbf 14:54 - Mannheim Hbf 15:18 - Frankfurt(Main)Hbf 15:58,14:56,,2021-12-24 14:47:31.282512
+Karlsruhe Hbf,14:57,STR 3,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 14:57 - Ebertstraße, Karlsruhe 14:58",14:58,,2021-12-24 14:47:31.283682
+Karlsruhe Hbf,14:57,Bus 50,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 14:57 - Ebertstraße, Karlsruhe 14:59 - Barbarossaplatz, Karlsruhe 15:00 - Gebhardstraße, Karlsruhe 15:01",,,2021-12-24 14:47:31.284999
+Karlsruhe Hbf,14:57,S 4,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 14:57 - Poststraße, Karlsruhe 14:58",,,2021-12-24 14:47:31.286288
+Karlsruhe Hbf,14:58,S 3,12,Karlsruhe Hbf 14:58 - Karlsruhe-Durlach 15:02,14:58,,2021-12-24 14:47:31.287361
+Karlsruhe Hbf,14:58,Bus 50,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 14:58 - Ebertstraße, Karlsruhe 14:59 - Barbarossaplatz, Karlsruhe 15:00 - Gebhardstraße, Karlsruhe 15:01",,,2021-12-24 14:47:31.288529
+Karlsruhe Hbf,14:59,Bus 62,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 14:59 - Ebertstraße, Karlsruhe 15:01 - Welfenstraße, Karlsruhe 15:03 - Beiertheim West, Karlsruhe 15:04",,,2021-12-24 14:47:31.289711
+Karlsruhe Hbf,15:00,ICE 107,2,Karlsruhe Hbf 15:00 - Offenburg 15:29 - Freiburg(Breisgau) Hbf 16:00 - Basel Bad Bf 16:35 - Basel SBB 16:47,15:00,,2021-12-24 14:47:31.290848
+Karlsruhe Hbf,15:00,ICE 106,3,Karlsruhe Hbf 15:00 - Mannheim Hbf 15:24 - Frankfurt(M) Flughafen Fernbf 16:06 - Siegburg/Bonn 16:47 - Köln Hbf 17:04,15:00,,2021-12-24 14:47:31.292042
+Karlsruhe Hbf,15:00,Bus 62,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:00 - Ebertstraße, Karlsruhe 15:01 - Welfenstraße, Karlsruhe 15:03 - Beiertheim West, Karlsruhe 15:04",15:00,,2021-12-24 14:47:31.293537
+Karlsruhe Hbf,15:02,STR 3,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:02 - Poststraße, Karlsruhe 15:03",15:02,,2021-12-24 14:47:31.294783
+Karlsruhe Hbf,15:03,S 11,Karlsruhe Bahnhofsvorplatz,Karlsruhe Bahnhofsvorplatz 15:03 - Karlsruhe Albtalbahnhof 15:04,15:04,,2021-12-24 14:47:31.295967
+Karlsruhe Hbf,15:05,RE 6 (12026),102,Karlsruhe Hbf 15:05 - Wörth(Rhein) 15:14 - Kandel 15:22 - Winden(Pfalz) 15:28 - Landau(Pfalz)Hbf 15:37 - Neustadt(Weinstr)Hbf 15:51,15:05,,2021-12-24 14:47:31.297325
+Karlsruhe Hbf,15:05,S 11,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:05 - Poststraße, Karlsruhe 15:06",15:05,,2021-12-24 14:47:31.298609
+Karlsruhe Hbf,15:06,IC 2161,10,Karlsruhe Hbf 15:06 - Pforzheim Hbf 15:25 - Mühlacker 15:35 - Vaihingen(Enz) 15:42 - Stuttgart Hbf 16:02 - Schwäbisch Gmünd 16:40 - Aalen Hbf 16:57 - Ellwangen 17:08 - Crailsheim 17:23 - Ansbach 17:49 - Nürnberg Hbf 18:18,,,2021-12-24 14:47:31.299725
+Karlsruhe Hbf,15:07,RE 2 (4731),11,Karlsruhe Hbf 15:07 - Rastatt 15:20 - Baden-Baden 15:30,15:07,,2021-12-24 14:47:31.300946
+Karlsruhe Hbf,15:07,STR 2,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:07 - Ebertstraße, Karlsruhe 15:08",15:08,,2021-12-24 14:47:31.302111
+Karlsruhe Hbf,15:10,IC 2184,7,Karlsruhe Hbf 15:10 - Bruchsal 15:21 - Wiesloch-Walldorf 15:33 - Heidelberg Hbf 15:44 - Weinheim(Bergstr)Hbf 15:58 - Bensheim 16:08 - Darmstadt Hbf 16:22 - Frankfurt(Main)Hbf 16:40 - Frankfurt(Main)West 16:53 - Friedberg(Hess) 17:15 - Gießen 17:33 - Marburg(Lahn) 17:49 - Treysa 18:14 - Wabern(Bz Kassel) 18:32 - Kassel-Wilhelmshöhe 18:54 - Göttingen 19:16 - Hannover Hbf 19:56 - Celle 20:17 - Uelzen 20:40 - Lüneburg 20:56 - Hamburg-Harburg 21:16 - Hamburg Hbf 21:29 - Hamburg Dammtor 21:36 - Hamburg-Altona 21:46,,,2021-12-24 14:47:31.303231
+Karlsruhe Hbf,15:10,S 31,13,Karlsruhe Hbf 15:10 - Karlsruhe-Durlach 15:16,,,2021-12-24 14:47:31.304448
+Karlsruhe Hbf,15:11,ICE 75,2,Karlsruhe Hbf 15:11 - Baden-Baden 15:26 - Freiburg(Breisgau) Hbf 16:11 - Basel Bad Bf 16:46 - Basel SBB 16:55 - Zürich HB 18:00 - Sargans 19:03 - Landquart 19:12 - Chur 19:23,,Fahrt fällt aus,2021-12-24 14:47:31.305742
+Karlsruhe Hbf,15:11,S 8,Karlsruhe Bahnhofsvorplatz,Karlsruhe Bahnhofsvorplatz 15:11 - Karlsruhe Albtalbahnhof 15:12,,,2021-12-24 14:47:31.307064
+Karlsruhe Hbf,15:11,ICE 2879,2,Karlsruhe Hbf 15:11 - Baden-Baden 15:26 - Freiburg(Breisgau) Hbf 16:11 - Basel Bad Bf 16:46 - Basel SBB 16:55 - Zürich HB 18:00 - Sargans 19:03 - Landquart 19:12 - Chur 19:23,15:18,Ersatzfahrt für,2021-12-24 14:47:31.308765
+Karlsruhe Hbf,15:12,TGV 9580,1,Karlsruhe Hbf 15:12 - Baden-Baden 15:34 - Strasbourg 16:01 - Mulhouse Ville 17:05,15:12,,2021-12-24 14:47:31.310258
+Karlsruhe Hbf,15:12,STR 2,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:12 - Poststraße, Karlsruhe 15:13",15:13,,2021-12-24 14:47:31.311490
+Karlsruhe Hbf,15:13,Bus 47,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:13 - Poststraße, Karlsruhe 15:14 - Durlach Zündhütle, Karlsruhe 15:21 - Wolfartsweier Nord, Karlsruhe 15:22",,,2021-12-24 14:47:31.313005
+Karlsruhe Hbf,15:13,S 1,Karlsruhe Bahnhofsvorplatz,Karlsruhe Bahnhofsvorplatz 15:13 - Karlsruhe Albtalbahnhof 15:14,15:13,,2021-12-24 14:47:31.314536
+Karlsruhe Hbf,15:13,S 71,5,Karlsruhe Hbf 15:13 - Ettlingen West 15:18,15:14,,2021-12-24 14:47:31.315989
+Karlsruhe Hbf,15:17,STR 3,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:17 - Ebertstraße, Karlsruhe 15:18",15:18,,2021-12-24 14:47:31.317822
+Karlsruhe Hbf,15:17,Bus 50,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:17 - Ebertstraße, Karlsruhe 15:19 - Barbarossaplatz, Karlsruhe 15:20 - Gebhardstraße, Karlsruhe 15:21",,,2021-12-24 14:47:31.319865
+Karlsruhe Hbf,15:17,Bus 55,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:17 - Ebertstraße, Karlsruhe 15:19 - Kolpingplatz, Karlsruhe 15:21 - Südendschule, Karlsruhe 15:23",,,2021-12-24 14:47:31.321756
+Karlsruhe Hbf,15:18,Bus 50,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:18 - Ebertstraße, Karlsruhe 15:19 - Barbarossaplatz, Karlsruhe 15:20 - Gebhardstraße, Karlsruhe 15:21",,,2021-12-24 14:47:31.323398
+Karlsruhe Hbf,15:18,Bus 55,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:18 - Ebertstraße, Karlsruhe 15:19 - Kolpingplatz, Karlsruhe 15:21 - Südendschule, Karlsruhe 15:23",15:18,,2021-12-24 14:47:31.325213
+Karlsruhe Hbf,15:19,Bus 62,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:19 - Ebertstraße, Karlsruhe 15:21 - Welfenstraße, Karlsruhe 15:23 - Beiertheim West, Karlsruhe 15:24",,,2021-12-24 14:47:31.326987
+Karlsruhe Hbf,15:20,Bus 62,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:20 - Ebertstraße, Karlsruhe 15:21 - Welfenstraße, Karlsruhe 15:23 - Beiertheim West, Karlsruhe 15:24",15:20,,2021-12-24 14:47:31.328900
+Karlsruhe Hbf,15:22,STR 3,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:22 - Poststraße, Karlsruhe 15:23",15:23,,2021-12-24 14:47:31.330657
+Karlsruhe Hbf,15:22,S 4,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:22 - Poststraße, Karlsruhe 15:23",15:22,,2021-12-24 14:47:31.332350
+Karlsruhe Hbf,15:25,S 1,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:25 - Poststraße, Karlsruhe 15:26",,,2021-12-24 14:47:31.334011
+Karlsruhe Hbf,15:27,STR 2,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:27 - Ebertstraße, Karlsruhe 15:28",15:28,,2021-12-24 14:47:31.335811
+Karlsruhe Hbf,15:27,S 7,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:27 - Poststraße, Karlsruhe 15:28",15:27,,2021-12-24 14:47:31.337548
+Karlsruhe Hbf,15:28,S 3,8,Karlsruhe Hbf 15:28 - Karlsruhe-Durlach 15:32,,,2021-12-24 14:47:31.339124
+Karlsruhe Hbf,15:28,S 9,4,Karlsruhe Hbf 15:28 - Karlsruhe-Hagsfeld 15:32,,,2021-12-24 14:47:31.340720
+Karlsruhe Hbf,15:31,S 7,Karlsruhe Bahnhofsvorplatz,Karlsruhe Bahnhofsvorplatz 15:31 - Karlsruhe Albtalbahnhof 15:32,15:32,,2021-12-24 14:47:31.342450
+Karlsruhe Hbf,15:32,ICE 9572,6,Karlsruhe Hbf 15:32 - Strasbourg 16:12 - Paris Est 18:05,15:40,Grund: Reparatur am Zug,2021-12-24 14:47:31.343903
+Karlsruhe Hbf,15:32,STR 2,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:32 - Poststraße, Karlsruhe 15:33",15:33,,2021-12-24 14:47:31.345653
+Karlsruhe Hbf,15:33,RB 51 (12414),102,Karlsruhe Hbf 15:33 - Karlsruhe West 15:39 - Karlsruhe-Mühlburg 15:42,,,2021-12-24 14:47:31.347313
+Karlsruhe Hbf,15:33,S 11,Karlsruhe Bahnhofsvorplatz,Karlsruhe Bahnhofsvorplatz 15:33 - Karlsruhe Albtalbahnhof 15:34,15:33,,2021-12-24 14:47:31.349133
+Karlsruhe Hbf,15:37,STR 3,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:37 - Ebertstraße, Karlsruhe 15:38",15:38,,2021-12-24 14:47:31.350888
+Karlsruhe Hbf,15:37,Bus 50,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:37 - Ebertstraße, Karlsruhe 15:39 - Barbarossaplatz, Karlsruhe 15:40 - Gebhardstraße, Karlsruhe 15:41",,,2021-12-24 14:47:31.352632
+Karlsruhe Hbf,15:37,S 4,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:37 - Poststraße, Karlsruhe 15:38",,,2021-12-24 14:47:31.354454
+Karlsruhe Hbf,15:38,Bus 50,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:38 - Ebertstraße, Karlsruhe 15:39 - Barbarossaplatz, Karlsruhe 15:40 - Gebhardstraße, Karlsruhe 15:41",,,2021-12-24 14:47:31.356297
+Karlsruhe Hbf,15:39,RE 7 (5339),14,Karlsruhe Hbf 15:39 - Rastatt 15:52 - Baden-Baden 16:00,,,2021-12-24 14:47:31.357919
+Karlsruhe Hbf,15:39,Bus 62,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:39 - Ebertstraße, Karlsruhe 15:41 - Welfenstraße, Karlsruhe 15:43 - Beiertheim West, Karlsruhe 15:44",,,2021-12-24 14:47:31.359565
+Karlsruhe Hbf,15:40,Bus 62,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:40 - Ebertstraße, Karlsruhe 15:41 - Welfenstraße, Karlsruhe 15:43 - Beiertheim West, Karlsruhe 15:44",15:40,,2021-12-24 14:47:31.361260
+Karlsruhe Hbf,15:42,STR 3,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:42 - Poststraße, Karlsruhe 15:43",15:43,,2021-12-24 14:47:31.362893
+Karlsruhe Hbf,15:45,S 1,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:45 - Poststraße, Karlsruhe 15:46",15:45,,2021-12-24 14:47:31.364611
+Karlsruhe Hbf,15:47,STR 2,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:47 - Ebertstraße, Karlsruhe 15:48",15:48,,2021-12-24 14:47:31.366287
+Karlsruhe Hbf,15:47,Bus 55,"Hauptbahnhof (Vorplatz), Karlsruhe","Hauptbahnhof (Vorplatz), Karlsruhe 15:47 - Ebertstraße, Karlsruhe 15:49 - Kolpingplatz, Karlsruhe 15:51 - Südendschule, Karlsruhe 15:53",,,2021-12-24 14:47:31.367909
+Karlsruhe Hbf,15:47,S 8,Karlsruhe Bahnhofsvorplatz,"Karlsruhe Bahnhofsvorplatz 15:47 - Poststraße, Karlsruhe 15:48",15:47,,2021-12-24 14:47:31.369668
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Karlruhe Durlach,14:48,STR 2,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 14:48 - Durlach Untermühlstraße, Karlsruhe 14:49",14:49,,2021-12-24 14:47:33.590024
+Karlruhe Durlach,14:49,STR 2,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 14:49 - Durlach Gritznerstraße, Karlsruhe 14:50",14:50,,2021-12-24 14:47:33.592266
+Karlruhe Durlach,14:49,STR E,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 14:49 - Durlach Untermühlstraße, Karlsruhe 14:50 - Weinweg, Karlsruhe 14:51 - Tullastraße/Alter Schlachthof, Karlsruhe 14:53 - Tullastraße/Alter Schlachthof, Karlsruhe 14:54",,,2021-12-24 14:47:33.594129
+Karlruhe Durlach,14:52,S 5,11,"Karlsruhe-Durlach 14:52 - Durlach Hubstraße, Karlsruhe 14:53",14:55,,2021-12-24 14:47:33.595940
+Karlruhe Durlach,14:53,S 3,6b,Karlsruhe-Durlach 14:53 - Karlsruhe Hbf 15:00,14:55,,2021-12-24 14:47:33.597537
+Karlruhe Durlach,14:54,STR 5,,"Karlsruhe-Durlach 14:54 - Durlach Untermühlstraße, Karlsruhe 14:55",,,2021-12-24 14:47:33.601084
+Karlruhe Durlach,14:55,S 4,11,Karlsruhe-Durlach 14:55 - Grötzingen 14:58,,,2021-12-24 14:47:33.602632
+Karlruhe Durlach,14:56,STR 1,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 14:56 - Durlach Friedrichschule, Karlsruhe 14:57 - Durlach Schlossplatz, Karlsruhe 14:58 - Durlach Turmberg, Karlsruhe 15:00",14:57,,2021-12-24 14:47:33.604453
+Karlruhe Durlach,14:56,S 32,5a,Karlsruhe-Durlach 14:56 - Weingarten(Baden) 15:02,,,2021-12-24 14:47:33.606250
+Karlruhe Durlach,14:56,S 51,12,"Karlsruhe-Durlach 14:56 - Durlach Untermühlstraße, Karlsruhe 14:57",,,2021-12-24 14:47:33.607776
+Karlruhe Durlach,15:01,STR 1,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 15:01 - Durlach Untermühlstraße, Karlsruhe 15:02",15:02,,2021-12-24 14:47:33.609518
+Karlruhe Durlach,15:02,Bus 107,"Durlach Bahnhof, Karlsruhe","Durlach Bahnhof, Karlsruhe 15:02 - Durlach Raiherwiesenstraße, Karlsruhe 15:03 - Durlach Gudrunstraße, Karlsruhe 15:04 - Durlach Ottostraße, Karlsruhe 15:05",15:03,,2021-12-24 14:47:33.611182
+Karlruhe Durlach,15:02,S 51,11,"Karlsruhe-Durlach 15:02 - Durlach Hubstraße, Karlsruhe 15:03",15:03,,2021-12-24 14:47:33.612727
+Karlruhe Durlach,15:02,S 4,12,"Karlsruhe-Durlach 15:02 - Durlach Untermühlstraße, Karlsruhe 15:04",15:02,,2021-12-24 14:47:33.614210
+Karlruhe Durlach,15:03,S 3,1,Karlsruhe-Durlach 15:03 - Bruchsal 15:14,15:03,,2021-12-24 14:47:33.615688
+Karlruhe Durlach,15:04,S 32,6a,Karlsruhe-Durlach 15:04 - Karlsruhe Hbf 15:09,15:04,,2021-12-24 14:47:33.617368
+Karlruhe Durlach,15:06,S 5,12,"Karlsruhe-Durlach 15:06 - Durlach Untermühlstraße, Karlsruhe 15:07",,,2021-12-24 14:47:33.619160
+Karlruhe Durlach,15:08,STR 2,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 15:08 - Durlach Untermühlstraße, Karlsruhe 15:09",15:09,,2021-12-24 14:47:33.621077
+Karlruhe Durlach,15:09,STR 2,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 15:09 - Durlach Gritznerstraße, Karlsruhe 15:10",15:10,,2021-12-24 14:47:33.622984
+Karlruhe Durlach,15:12,S 5,11,"Karlsruhe-Durlach 15:12 - Durlach Hubstraße, Karlsruhe 15:13",15:12,,2021-12-24 14:47:33.624877
+Karlruhe Durlach,15:14,STR 5,,"Karlsruhe-Durlach 15:14 - Durlach Untermühlstraße, Karlsruhe 15:15",,,2021-12-24 14:47:33.626764
+Karlruhe Durlach,15:15,S 4,11,Karlsruhe-Durlach 15:15 - Grötzingen 15:18,,,2021-12-24 14:47:33.628481
+Karlruhe Durlach,15:16,STR 1,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 15:16 - Durlach Friedrichschule, Karlsruhe 15:17 - Durlach Schlossplatz, Karlsruhe 15:18 - Durlach Turmberg, Karlsruhe 15:20",15:17,,2021-12-24 14:47:33.630274
+Karlruhe Durlach,15:16,S 5,12,"Karlsruhe-Durlach 15:16 - Durlach Untermühlstraße, Karlsruhe 15:17",,,2021-12-24 14:47:33.631935
+Karlruhe Durlach,15:16,S 31,1,Karlsruhe-Durlach 15:16 - Weingarten(Baden) 15:22,,,2021-12-24 14:47:33.633760
+Karlruhe Durlach,15:19,IRE 1 (19018),2b,Karlsruhe-Durlach 15:19 - Karlsruhe Hbf 15:25,15:19,,2021-12-24 14:47:33.635973
+Karlruhe Durlach,15:20,S 4,12,"Karlsruhe-Durlach 15:20 - Tullastraße/Alter Schlachthof, Karlsruhe 15:25",15:20,,2021-12-24 14:47:33.637520
+Karlruhe Durlach,15:21,STR 1,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 15:21 - Durlach Untermühlstraße, Karlsruhe 15:22",15:22,,2021-12-24 14:47:33.639220
+Karlruhe Durlach,15:22,S 5,11,"Karlsruhe-Durlach 15:22 - Durlach Hubstraße, Karlsruhe 15:23",,,2021-12-24 14:47:33.640702
+Karlruhe Durlach,15:26,S 5,12,"Karlsruhe-Durlach 15:26 - Durlach Untermühlstraße, Karlsruhe 15:27",,,2021-12-24 14:47:33.642135
+Karlruhe Durlach,15:28,STR 2,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 15:28 - Durlach Untermühlstraße, Karlsruhe 15:29",15:29,,2021-12-24 14:47:33.643856
+Karlruhe Durlach,15:29,STR 2,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 15:29 - Durlach Gritznerstraße, Karlsruhe 15:30",15:30,,2021-12-24 14:47:33.645612
+Karlruhe Durlach,15:32,S 3,5b,Karlsruhe-Durlach 15:32 - Bruchsal 15:42,,,2021-12-24 14:47:33.647085
+Karlruhe Durlach,15:32,S 3,6b,Karlsruhe-Durlach 15:32 - Karlsruhe Hbf 15:38,15:32,,2021-12-24 14:47:33.648756
+Karlruhe Durlach,15:32,S 5,11,"Karlsruhe-Durlach 15:32 - Durlach Hubstraße, Karlsruhe 15:33",15:32,,2021-12-24 14:47:33.650462
+Karlruhe Durlach,15:34,STR 5,,"Karlsruhe-Durlach 15:34 - Durlach Untermühlstraße, Karlsruhe 15:35",,,2021-12-24 14:47:33.652160
+Karlruhe Durlach,15:36,STR 1,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 15:36 - Durlach Friedrichschule, Karlsruhe 15:37 - Durlach Schlossplatz, Karlsruhe 15:38 - Durlach Turmberg, Karlsruhe 15:40",15:37,,2021-12-24 14:47:33.653838
+Karlruhe Durlach,15:36,S 5,12,"Karlsruhe-Durlach 15:36 - Durlach Untermühlstraße, Karlsruhe 15:37",,,2021-12-24 14:47:33.655284
+Karlruhe Durlach,15:39,S 4,11,Karlsruhe-Durlach 15:39 - Jöhlingen West 15:48,15:39,,2021-12-24 14:47:33.656770
+Karlruhe Durlach,15:41,STR 1,"Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe","Durlach Auer Straße/Dr.Willmar Schwabe, Karlsruhe 15:41 - Durlach Untermühlstraße, Karlsruhe 15:42",15:42,,2021-12-24 14:47:33.658486
+Karlruhe Durlach,15:42,S 5,11,"Karlsruhe-Durlach 15:42 - Durlach Hubstraße, Karlsruhe 15:43",,,2021-12-24 14:47:33.660123
+Karlruhe Durlach,15:42,S 4,12,"Karlsruhe-Durlach 15:42 - Durlach Untermühlstraße, Karlsruhe 15:44",,,2021-12-24 14:47:33.661838
+Karlruhe Durlach,15:43,S 31,2a,Karlsruhe-Durlach 15:43 - Karlsruhe Hbf 15:48,,,2021-12-24 14:47:33.663272
+Karlruhe Durlach,15:46,S 5,12,"Karlsruhe-Durlach 15:46 - Durlach Untermühlstraße, Karlsruhe 15:47",15:46,,2021-12-24 14:47:33.664722
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Rastatt,14:48,Bus 234,"Bahnhof, Rastatt","Bahnhof, Rastatt 14:48 - SchlossGalerie, Rastatt 14:50 - Kapellenstraße, Rastatt 14:51 - Kehler Straße, Rastatt 14:53",,,2021-12-24 14:47:35.860375
+Rastatt,14:48,Bus 232,"Bahnhof, Rastatt","Bahnhof, Rastatt 14:48 - Niederwaldstraße, Rastatt 14:50 - Forum, Rastatt 14:51 - Im Wöhr, Rastatt 14:53",,,2021-12-24 14:47:35.863293
+Rastatt,14:50,Bus 239,"Bahnhof, Rastatt","Bahnhof, Rastatt 14:50 - Königsberger Str., Rastatt 14:52 - Stadtfriedhof, Rastatt 14:53 - Lyzeumstraße, Rastatt 14:55",,,2021-12-24 14:47:35.865792
+Rastatt,14:52,RE 7 (17019),3,Rastatt 14:52 - Baden-Baden 14:58 - Bühl(Baden) 15:04,14:53,,2021-12-24 14:47:35.868092
+Rastatt,14:55,Bus 235,"Bahnhof, Rastatt","Bahnhof, Rastatt 14:55 - Tulla-Gymnasium, Rastatt 14:58 - Danziger Straße, Rastatt 14:59 - Waldfriedhof, Rastatt 15:00",,,2021-12-24 14:47:35.869990
+Rastatt,14:57,S 7,3,Rastatt 14:57 - Baden-Baden Haueneberstein 15:01,14:57,,2021-12-24 14:47:35.871627
+Rastatt,15:02,S 7,4,Rastatt 15:02 - Ötigheim 15:06,15:02,,2021-12-24 14:47:35.873093
+Rastatt,15:07,Bus 235,"Bahnhof, Rastatt","Bahnhof, Rastatt 15:07 - SchlossGalerie, Rastatt 15:09 - Bernhardusbrunnen, Rastatt 15:12 - Schloss, Rastatt 15:13",,,2021-12-24 14:47:35.874659
+Rastatt,15:08,RE 7 (5332),4,Rastatt 15:08 - Karlsruhe Hbf 15:22,15:10,,2021-12-24 14:47:35.876298
+Rastatt,15:10,Bus 231,"Bahnhof, Rastatt","Bahnhof, Rastatt 15:10 - Königsberger Str., Rastatt 15:11 - Richard-Wagner-Ring, Rastatt 15:12 - Zay, Rastatt 15:13",,,2021-12-24 14:47:35.877703
+Rastatt,15:22,S 8,5,Rastatt 15:22 - Ötigheim 15:26,15:22,,2021-12-24 14:47:35.878997
+Rastatt,15:24,RE 2 (4731),2,Rastatt 15:24 - Baden-Baden 15:30 - Bühl(Baden) 15:36,15:24,,2021-12-24 14:47:35.880304
+Rastatt,15:24,S 71,6,Rastatt 15:24 - Muggensturm 15:28,,,2021-12-24 14:47:35.881435
+Rastatt,15:30,Bus X34,"Bahnhof, Rastatt","Bahnhof, Rastatt 15:30 - Kapellenstraße, Rastatt 15:32 - Maquet, Rastatt 15:35 - Einkaufszentrum, Iffezheim 15:40",,,2021-12-24 14:47:35.882590
+Rastatt,15:30,S 81,5,Rastatt 15:30 - Karlsruhe Hbf 15:50,15:30,,2021-12-24 14:47:35.883699
+Rastatt,15:34,RE 2 (4724),4,Rastatt 15:34 - Karlsruhe Hbf 15:48,15:37,,2021-12-24 14:47:35.884923
+Rastatt,15:38,S 8,5,Rastatt 15:38 - Rastatt Beinle 15:40,15:38,,2021-12-24 14:47:35.886116
+Rastatt,15:43,Bus 212,"Bahnhof, Rastatt","Bahnhof, Rastatt 15:43 - SchlossGalerie, Rastatt 15:45 - Kapellenstraße, Rastatt 15:47 - Kehler Straße, Rastatt 15:49",15:43,,2021-12-24 14:47:35.887391
+Rastatt,15:45,Bus 235,"Bahnhof, Rastatt","Bahnhof, Rastatt 15:45 - Tulla-Gymnasium, Rastatt 15:48 - Danziger Straße, Rastatt 15:49 - Waldfriedhof, Rastatt 15:50",,,2021-12-24 14:47:35.888821
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Baden-Baden,14:49,Bus 203,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 14:49 - Sinzheimer Straße, Baden-Baden 14:50 - Wörthstraße, Baden-Baden 14:51 - Schweigrother Platz, Baden-Baden 14:53",14:49,,2021-12-24 14:47:39.846974
+Baden-Baden,14:52,Bus 201,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 14:52 - Sinzheimer Straße, Baden-Baden 14:53 - Wörthstraße, Baden-Baden 14:55 - Schweigrother Platz, Baden-Baden 14:56",14:52,,2021-12-24 14:47:39.849772
+Baden-Baden,14:53,Bus 243,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 14:53 - Kuppenheimer Straße, Baden-Baden 14:54 - Haueneberstein Karlsruher Straße, Baden-Baden 14:58 - Haueneberstein Waldstraße, Baden-Baden 14:59",14:56,,2021-12-24 14:47:39.851881
+Baden-Baden,14:54,S 7,1,Baden-Baden 14:54 - Baden-Baden Haueneberstein 14:57,14:54,,2021-12-24 14:47:39.853710
+Baden-Baden,14:57,Bus 205,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 14:57 -",15:07,Änderung im Fahrtverlauf!,2021-12-24 14:47:39.855551
+Baden-Baden,14:59,RE 7 (17019),3,Baden-Baden 14:59 - Bühl(Baden) 15:04 - Achern 15:10,15:00,,2021-12-24 14:47:39.857385
+Baden-Baden,15:01,RE 7 (5332),2,Baden-Baden 15:01 - Rastatt 15:07 - Karlsruhe Hbf 15:22,15:02,,2021-12-24 14:47:39.859080
+Baden-Baden,15:05,S 7,3,Baden-Baden 15:05 - Sinzheim Nord 15:08 - Sinzheim 15:10 - Baden-Baden Rebland 15:13 - Bühl(Baden) 15:18 - Achern 15:25,15:05,,2021-12-24 14:47:39.860579
+Baden-Baden,15:07,Bus 201,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:07 - Sinzheimer Straße, Baden-Baden 15:08 - Wörthstraße, Baden-Baden 15:10 - Schweigrother Platz, Baden-Baden 15:11",15:07,,2021-12-24 14:47:39.862042
+Baden-Baden,15:10,AST 285,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:10 - Kartung Am Markbach, Sinzheim 15:18 - Kartung Kreuzstraße, Sinzheim 15:19 - Kartung Schule, Sinzheim 15:20",,,2021-12-24 14:47:39.863493
+Baden-Baden,15:15,Bus 216,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:15 - Sinzheimer Straße, Baden-Baden 15:16 - Wörthstraße, Baden-Baden 15:17 - Schweigrother Platz, Baden-Baden 15:19",15:15,Änderung im Fahrtverlauf!,2021-12-24 14:47:39.864930
+Baden-Baden,15:17,Bus 212,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:17 - Kuppenheimer Straße, Baden-Baden 15:18 - Sandweier Südring, Baden-Baden 15:22 - Sandweier Mitte, Baden-Baden 15:23",15:17,,2021-12-24 14:47:39.866186
+Baden-Baden,15:20,Bus 244,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:20 - Wörthstraße, Baden-Baden 15:22 - Festspielhaus, Baden-Baden 15:26 - Hindenburgpl./Stadtbiblioth., Baden-Baden 15:27",,,2021-12-24 14:47:39.867373
+Baden-Baden,15:21,Bus 218,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:21 - Wörthstraße, Baden-Baden 15:23 - Festspielhaus, Baden-Baden 15:28 - Hindenburgplatz (Kaiserallee), Baden-Baden 15:29 - Leopoldsplatz (Luisenstr.), Baden-Baden 15:31",15:21,,2021-12-24 14:47:39.868592
+Baden-Baden,15:22,Bus 201,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:22 - Sinzheimer Straße, Baden-Baden 15:23 - Wörthstraße, Baden-Baden 15:25 - Schweigrother Platz, Baden-Baden 15:26",15:22,,2021-12-24 14:47:39.869812
+Baden-Baden,15:25,Bus 205,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:25 -",15:25,Änderung im Fahrtverlauf!,2021-12-24 14:47:39.871148
+Baden-Baden,15:27,ICE 75,7,Baden-Baden 15:27 - Freiburg(Breisgau) Hbf 16:11 - Basel Bad Bf 16:46 - Basel SBB 16:55 - Zürich HB 18:00 - Sargans 19:03 - Landquart 19:12 - Chur 19:23,,Fahrt fällt aus,2021-12-24 14:47:39.872475
+Baden-Baden,15:27,ICE 2879,7,Baden-Baden 15:27 - Freiburg(Breisgau) Hbf 16:11 - Basel Bad Bf 16:46 - Basel SBB 16:55 - Zürich HB 18:00 - Sargans 19:03 - Landquart 19:12 - Chur 19:23,15:35,Ersatzfahrt für,2021-12-24 14:47:39.873678
+Baden-Baden,15:28,RE 2 (4724),2,Baden-Baden 15:28 - Rastatt 15:34 - Karlsruhe Hbf 15:48,15:29,,2021-12-24 14:47:39.875218
+Baden-Baden,15:31,RE 2 (4731),3,Baden-Baden 15:31 - Bühl(Baden) 15:36 - Achern 15:42,15:32,,2021-12-24 14:47:39.877148
+Baden-Baden,15:33,Bus 243,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:33 - Wörthstraße, Baden-Baden 15:35 - Festspielhaus, Baden-Baden 15:40 - Hindenburgplatz (Kaiserallee), Baden-Baden 15:41 - Leopoldsplatz (Luisenstr.), Baden-Baden 15:42",15:33,,2021-12-24 14:47:39.878845
+Baden-Baden,15:35,TGV 9580,7,Baden-Baden 15:35 - Strasbourg 16:01 - Mulhouse Ville 17:05 - Belfort-Montbéliard TGV 17:31,15:37,,2021-12-24 14:47:39.880438
+Baden-Baden,15:35,Bus 218,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:35 - Kuppenheimer Straße, Baden-Baden 15:36 - Wilhelm-Drapp-Str., Baden-Baden 15:37 - Sandweier Nord, Baden-Baden 15:41",15:35,,2021-12-24 14:47:39.882187
+Baden-Baden,15:35,Bus 285,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:35 - Königsberger Straße, Baden-Baden 15:38 - Grüner Baum, Hügelsheim 15:48 - Söllingen Airpark Eisstadion, Rheinmünster 15:51 - Flughafen Karlsruhe/Baden-Baden Terminal, Rheinmün 15:53",15:35,,2021-12-24 14:47:39.883581
+Baden-Baden,15:35,Bus 201E,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:35 - Sinzheimer Straße, Baden-Baden 15:36 - Wörthstraße, Baden-Baden 15:38 - Ebertplatz, Baden-Baden 15:42",15:35,,2021-12-24 14:47:39.885064
+Baden-Baden,15:37,Bus 201,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:37 - Sinzheimer Straße, Baden-Baden 15:38 - Wörthstraße, Baden-Baden 15:40 - Schweigrother Platz, Baden-Baden 15:41",15:37,,2021-12-24 14:47:39.886794
+Baden-Baden,15:38,Bus X45,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:38 - Wörthstraße, Baden-Baden 15:40 - Festspielhaus, Baden-Baden 15:43 - Hindenburgpl./Stadtbiblioth., Baden-Baden 15:44",,,2021-12-24 14:47:39.888298
+Baden-Baden,15:41,ICE 276,4,Baden-Baden 15:41 - Karlsruhe Hbf 15:59 - Mannheim Hbf 16:25 - Frankfurt(Main)Hbf 17:08 - Hanau Hbf 17:28 - Fulda 18:10 - Kassel-Wilhelmshöhe 18:43 - Göttingen 19:03 - Hildesheim Hbf 19:35 - Braunschweig Hbf 19:59 - Wolfsburg Hbf 20:17 - Berlin-Spandau 21:13 - Berlin Hbf 21:27 - Berlin Ostbahnhof 21:39,15:41,,2021-12-24 14:47:39.889545
+Baden-Baden,15:45,Bus 216,"Bahnhof, Baden-Baden","Bahnhof, Baden-Baden 15:45 - Kuppenheimer Straße, Baden-Baden 15:46 - Wilhelm-Drapp-Str., Baden-Baden 15:47 - Haueneberstein Karlsruher Straße, Baden-Baden 15:51",15:45,,2021-12-24 14:47:39.890779
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Freudenstadt,14:48,Bus F 1,"Hauptbahnhof, Freudenstadt","Hauptbahnhof, Freudenstadt 14:48 - Landratsamt, Freudenstadt 14:50 - Marktplatz Stadthaus, Freudenstadt 14:52 - Stadtbahnhof, Freudenstadt 14:57",,,2021-12-24 14:47:42.078750
+Freudenstadt,14:50,Bus B,"Hauptbahnhof, Freudenstadt","Hauptbahnhof, Freudenstadt 14:50 - Sonnenhalde, Freudenstadt 14:51 - Kärntner Straße, Freudenstadt 14:52 - Martinique, Freudenstadt 14:56",,,2021-12-24 14:47:42.081521
+Freudenstadt,14:50,Bus 100,"Hauptbahnhof, Freudenstadt","Hauptbahnhof, Freudenstadt 14:50 - Landratsamt, Freudenstadt 14:51 - Marktplatz Stadthaus, Freudenstadt 14:52 - Straßburger Str., Freudenstadt 14:54",,,2021-12-24 14:47:42.084006
+Freudenstadt,14:53,S 8,2,Freudenstadt Hbf 14:53 - Freudenstadt Industriegebiet 14:55,14:53,,2021-12-24 14:47:42.086003
+Freudenstadt,15:00,SWE RB20 (87390),3b,Freudenstadt Hbf 15:00 - Loßburg-Rodt 15:05 - Alpirsbach 15:16 - Schenkenzell 15:21,,,2021-12-24 14:47:42.088381
+Freudenstadt,15:05,Bus 100,"Hauptbahnhof, Freudenstadt","Hauptbahnhof, Freudenstadt 15:05 - Landratsamt, Freudenstadt 15:07 - Marktplatz Stadthaus, Freudenstadt 15:09 - Stadtbahnhof, Freudenstadt 15:15",,,2021-12-24 14:47:42.090167
+Freudenstadt,15:07,Bus F 1,"Hauptbahnhof, Freudenstadt","Hauptbahnhof, Freudenstadt 15:07 - Ziegelei Bacher, Freudenstadt 15:08 - Aach Rathaus, Dornstetten 15:12 - Industriegebiet, Dornstetten 15:16",,,2021-12-24 14:47:42.092028
+Freudenstadt,15:13,Bus 11,"Hauptbahnhof, Freudenstadt","Hauptbahnhof, Freudenstadt 15:13 - Langenau, Freudenstadt 15:15 - Wittlensweiler Industriegebiet, Freudenstadt 15:17 - Wittlensweiler Friedhof, Freudenstadt 15:19",,,2021-12-24 14:47:42.093801
+Freudenstadt,15:15,S 8,2,Freudenstadt Hbf 15:15 - Grüntal-Wittlensweiler 15:18,15:15,,2021-12-24 14:47:42.095276
+Freudenstadt,15:21,Bus 41,"Hauptbahnhof, Freudenstadt","Hauptbahnhof, Freudenstadt 15:21 - Landratsamt, Freudenstadt 15:22 - Marktplatz Stadthaus, Freudenstadt 15:25 - Stadtbahnhof, Freudenstadt 15:30",,,2021-12-24 14:47:42.096946
+Freudenstadt,15:22,Bus 15,"Hauptbahnhof, Freudenstadt","Hauptbahnhof, Freudenstadt 15:22 - Landratsamt, Freudenstadt 15:24 - Marktplatz Stadthaus, Freudenstadt 15:26 - Stadtbahnhof, Freudenstadt 15:35",,,2021-12-24 14:47:42.098593
+Freudenstadt,15:23,S 8,1,Freudenstadt Hbf 15:23 - Freudenstadt Industriegebiet 15:25 - Freudenstadt Schulzentrum 15:27 - Freudenstadt Stadt 15:28,,,2021-12-24 14:47:42.100171
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Pforzheim,14:48,Bus 762,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 14:48 - Leopoldstraße, Pforzheim 14:52 - Waisenhausplatz, Pforzheim 14:55 - Goldschmiedeschule, Pforzheim 14:57",,,2021-12-24 14:47:44.488754
+Pforzheim,14:49,Bus 3,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:49 - Christophallee, Pforzheim 14:50 - Pfälzer Straße, Pforzheim 14:51 - Zähringer Allee, Pforzheim 14:52",14:49,,2021-12-24 14:47:44.490899
+Pforzheim,14:50,Bus 4,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:50 - Bahnhofstraße, Pforzheim 14:51 - Leopoldstraße, Pforzheim 14:53 - Sedanplatz, Pforzheim 14:54",,,2021-12-24 14:47:44.492818
+Pforzheim,14:50,Bus 733,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:50 - Pfälzer Straße, Pforzheim 14:53 - Friedrich Ebert Straße, Pforzheim 14:55 - Wartberg, Pforzheim 14:56",,,2021-12-24 14:47:44.494419
+Pforzheim,14:52,Bus 742,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:52 - Leopoldstraße, Pforzheim 14:55 - Sedanplatz, Pforzheim 14:56 - Jahn-/Bleichstr., Pforzheim 14:57",,,2021-12-24 14:47:44.495994
+Pforzheim,14:52,Bus 5,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:52 - Bahnhofstraße, Pforzheim 14:53 - Leopoldstraße, Pforzheim 14:55 - Waisenhausplatz, Pforzheim 14:58",,,2021-12-24 14:47:44.497529
+Pforzheim,14:52,Bus 3,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:52 - Bahnhofstraße, Pforzheim 14:53 - Leopoldstraße, Pforzheim 14:55 - Sedanplatz, Pforzheim 14:58",14:52,,2021-12-24 14:47:44.498877
+Pforzheim,14:52,Bus 744,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 14:52 - Leopoldplatz, Pforzheim 14:56 - Turnplatz, Pforzheim 14:58 - Benckiserstraße, Pforzheim 14:59",,,2021-12-24 14:47:44.500247
+Pforzheim,14:53,Bus 2,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:53 - Christophallee, Pforzheim 14:55 - Nordstadtschule, Pforzheim 14:57 - Yorckstraße, Pforzheim 14:58",,,2021-12-24 14:47:44.501627
+Pforzheim,14:53,Bus 6,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:53 - Christophallee, Pforzheim 14:55 - Pfälzer Straße, Pforzheim 14:56 - Zähringer Allee, Pforzheim 14:57",,,2021-12-24 14:47:44.503003
+Pforzheim,14:54,IRE 1 (19019),3,Pforzheim Hbf 14:54 - Mühlacker 15:02 - Vaihingen(Enz) 15:07 - Stuttgart Hbf 15:25,14:54,,2021-12-24 14:47:44.504476
+Pforzheim,14:55,Bus 717,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 14:55 - Leopoldplatz, Pforzheim 14:59 - Gerbelstraße, Pforzheim 15:01 - Fritz-Erler-Schule Süd, Pforzheim 15:03",,,2021-12-24 14:47:44.505696
+Pforzheim,14:57,Bus 6,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:57 - Bahnhofstraße, Pforzheim 14:58 - Leopoldstraße, Pforzheim 15:00 - Waisenhausplatz, Pforzheim 15:03",14:57,,2021-12-24 14:47:44.506914
+Pforzheim,14:57,Bus 2,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 14:57 - Bahnhofstraße, Pforzheim 14:58 - Leopoldplatz, Pforzheim 15:00 - Turnplatz, Pforzheim 15:03",14:57,,2021-12-24 14:47:44.508148
+Pforzheim,14:58,Bus 737,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 14:58 - Marktplatz, Pforzheim 15:02 - Parkstraße, Pforzheim 15:03 - Zeppelinstraße, Pforzheim 15:05",,,2021-12-24 14:47:44.509432
+Pforzheim,14:58,Bus 7,10,"Hauptbahnhof/ZOB, Pforzheim 14:58 - Bahnhofstraße, Pforzheim 14:59 - Leopoldstraße, Pforzheim 15:01 - Sedanplatz, Pforzheim 15:03",,,2021-12-24 14:47:44.510822
+Pforzheim,15:00,Bus 16,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:00 - Bahnhofstraße, Pforzheim 15:01 - Leopoldstraße, Pforzheim 15:03 - Waisenhausplatz, Pforzheim 15:05",15:00,,2021-12-24 14:47:44.512143
+Pforzheim,15:00,Bus 722,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:00 - Leopoldplatz, Pforzheim 15:04 - Händelstraße, Pforzheim 15:07 - Krankenhaus Siloah, Pforzheim 15:09",,,2021-12-24 14:47:44.513787
+Pforzheim,15:01,Bus 7,13,"Hauptbahnhof/ZOB, Pforzheim 15:01 - Franziskusstraße, Pforzheim 15:02 - Hauptgüterbahnhof, Pforzheim 15:04",,,2021-12-24 14:47:44.515726
+Pforzheim,15:03,IRE 1 (19018),4,Pforzheim Hbf 15:03 - Karlsruhe-Durlach 15:18 - Karlsruhe Hbf 15:25,15:03,,2021-12-24 14:47:44.517485
+Pforzheim,15:04,Bus 5,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:04 - Christophallee, Pforzheim 15:05 - Pfälzer Straße, Pforzheim 15:06 - Zähringer Allee, Pforzheim 15:07",15:04,,2021-12-24 14:47:44.519146
+Pforzheim,15:06,S 5,5,Pforzheim Hbf 15:06 - Ispringen 15:09,15:06,,2021-12-24 14:47:44.520289
+Pforzheim,15:07,Bus 3,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:07 - Bahnhofstraße, Pforzheim 15:08 - Leopoldstraße, Pforzheim 15:10 - Sedanplatz, Pforzheim 15:13",15:07,,2021-12-24 14:47:44.521742
+Pforzheim,15:07,Bus 5,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:07 - Bahnhofstraße, Pforzheim 15:08 - Leopoldstraße, Pforzheim 15:10 - Waisenhausplatz, Pforzheim 15:13",15:07,,2021-12-24 14:47:44.523118
+Pforzheim,15:08,Bus 2,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:08 - Christophallee, Pforzheim 15:10 - Nordstadtschule, Pforzheim 15:12 - Yorckstraße, Pforzheim 15:13",15:08,,2021-12-24 14:47:44.524652
+Pforzheim,15:08,Bus 6,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:08 - Christophallee, Pforzheim 15:10 - Pfälzer Straße, Pforzheim 15:11 - Zähringer Allee, Pforzheim 15:12",15:08,,2021-12-24 14:47:44.526134
+Pforzheim,15:10,Bus 10,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:10 - Bahnhofstraße, Pforzheim 15:11 - Leopoldplatz, Pforzheim 15:13 - Benckiserpark, Pforzheim 15:16",15:10,,2021-12-24 14:47:44.527564
+Pforzheim,15:10,Bus 731,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:10 - Pfälzer Straße, Pforzheim 15:13 - Wolfsbergallee, Pforzheim 15:16 - Westl. Krebspfad, Pforzheim 15:17",,,2021-12-24 14:47:44.528801
+Pforzheim,15:12,Bus 6,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:12 - Bahnhofstraße, Pforzheim 15:13 - Leopoldstraße, Pforzheim 15:15 - Waisenhausplatz, Pforzheim 15:18",15:12,,2021-12-24 14:47:44.530041
+Pforzheim,15:12,Bus 2,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:12 - Bahnhofstraße, Pforzheim 15:13 - Leopoldplatz, Pforzheim 15:15 - Turnplatz, Pforzheim 15:18",15:12,,2021-12-24 14:47:44.531258
+Pforzheim,15:13,Bus 738,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:13 - Marktplatz, Pforzheim 15:17 - Parkstraße, Pforzheim 15:18 - Zeppelinstraße, Pforzheim 15:20",,,2021-12-24 14:47:44.532480
+Pforzheim,15:14,RB 17a (19523),2,Pforzheim Hbf 15:14 - Eutingen(Baden) 15:17 - Niefern 15:19 - Enzberg 15:22,15:14,,2021-12-24 14:47:44.533710
+Pforzheim,15:15,Bus 735,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:15 - Marktplatz, Pforzheim 15:18 - Parkstraße, Pforzheim 15:19 - Zeppelinstraße, Pforzheim 15:21",,,2021-12-24 14:47:44.534907
+Pforzheim,15:17,S 6,3,Pforzheim Hbf 15:17 - Pforzheim Maihälden 15:19,15:17,,2021-12-24 14:47:44.536156
+Pforzheim,15:18,Bus 763,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:18 - Leopoldstraße, Pforzheim 15:22 - Waisenhausplatz, Pforzheim 15:25 - Goldschmiedeschule, Pforzheim 15:27",,,2021-12-24 14:47:44.537441
+Pforzheim,15:18,Bus 17,10,"Hauptbahnhof/ZOB, Pforzheim 15:18 - Bahnhofstraße, Pforzheim 15:19 - Leopoldplatz, Pforzheim 15:21 - Turnplatz, Pforzheim 15:24",,,2021-12-24 14:47:44.538685
+Pforzheim,15:19,Bus 3,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:19 - Christophallee, Pforzheim 15:20 - Pfälzer Straße, Pforzheim 15:21 - Zähringer Allee, Pforzheim 15:22",15:19,,2021-12-24 14:47:44.539917
+Pforzheim,15:20,Bus 4,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:20 - Bahnhofstraße, Pforzheim 15:21 - Leopoldstraße, Pforzheim 15:23 - Sedanplatz, Pforzheim 15:24",,,2021-12-24 14:47:44.541145
+Pforzheim,15:22,Bus 5,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:22 - Bahnhofstraße, Pforzheim 15:23 - Leopoldstraße, Pforzheim 15:25 - Waisenhausplatz, Pforzheim 15:28",,,2021-12-24 14:47:44.542401
+Pforzheim,15:22,Bus 3,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:22 - Bahnhofstraße, Pforzheim 15:23 - Leopoldstraße, Pforzheim 15:25 - Sedanplatz, Pforzheim 15:28",15:22,,2021-12-24 14:47:44.543700
+Pforzheim,15:22,Bus 743,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:22 - Leopoldplatz, Pforzheim 15:26 - Turnplatz, Pforzheim 15:28 - Benckiserstraße, Pforzheim 15:29",,,2021-12-24 14:47:44.544914
+Pforzheim,15:23,Bus 2,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:23 - Christophallee, Pforzheim 15:25 - Nordstadtschule, Pforzheim 15:27 - Yorckstraße, Pforzheim 15:28",15:23,,2021-12-24 14:47:44.546143
+Pforzheim,15:23,Bus 6,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:23 - Christophallee, Pforzheim 15:25 - Pfälzer Straße, Pforzheim 15:26 - Zähringer Allee, Pforzheim 15:27",15:23,,2021-12-24 14:47:44.547374
+Pforzheim,15:25,Bus 715,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:25 - Leopoldplatz, Pforzheim 15:29 - Gerbelstraße, Pforzheim 15:31 - Fritz-Erler-Schule Süd, Pforzheim 15:33",,,2021-12-24 14:47:44.548601
+Pforzheim,15:27,IC 2161,3,Pforzheim Hbf 15:27 - Mühlacker 15:35 - Vaihingen(Enz) 15:42 - Stuttgart Hbf 16:02 - Schwäbisch Gmünd 16:40 - Aalen Hbf 16:57 - Ellwangen 17:08 - Crailsheim 17:23 - Ansbach 17:49 - Nürnberg Hbf 18:18,,,2021-12-24 14:47:44.549724
+Pforzheim,15:27,Bus 6,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:27 - Bahnhofstraße, Pforzheim 15:28 - Leopoldstraße, Pforzheim 15:30 - Waisenhausplatz, Pforzheim 15:33",15:27,,2021-12-24 14:47:44.551054
+Pforzheim,15:27,Bus 2,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:27 - Bahnhofstraße, Pforzheim 15:28 - Leopoldplatz, Pforzheim 15:30 - Turnplatz, Pforzheim 15:33",,,2021-12-24 14:47:44.552430
+Pforzheim,15:28,Bus 736,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:28 - Marktplatz, Pforzheim 15:32 - Parkstraße, Pforzheim 15:33 - Zeppelinstraße, Pforzheim 15:35",,,2021-12-24 14:47:44.553862
+Pforzheim,15:28,Bus 7,10,"Hauptbahnhof/ZOB, Pforzheim 15:28 - Bahnhofstraße, Pforzheim 15:29 - Leopoldstraße, Pforzheim 15:31 - Sedanplatz, Pforzheim 15:33",,,2021-12-24 14:47:44.555781
+Pforzheim,15:30,Bus 720,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:30 - Leopoldplatz, Pforzheim 15:34 - Gerbelstraße, Pforzheim 15:37 - Fritz-Erler-Schule Süd, Pforzheim 15:39",,,2021-12-24 14:47:44.557271
+Pforzheim,15:30,Bus 720,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:30 - Leopoldplatz, Pforzheim 15:34 - Gerbelstraße, Pforzheim 15:37 - Fritz-Erler-Schule Süd, Pforzheim 15:39",,,2021-12-24 14:47:44.559011
+Pforzheim,15:31,IRE 1 (19678),4,Pforzheim Hbf 15:31 - Wilferdingen-Singen 15:39 - Karlsruhe-Durlach 15:49 - Karlsruhe Hbf 15:53,15:31,,2021-12-24 14:47:44.560722
+Pforzheim,15:31,Bus 7,13,"Hauptbahnhof/ZOB, Pforzheim 15:31 - Franziskusstraße, Pforzheim 15:32 - Hauptgüterbahnhof, Pforzheim 15:34",,,2021-12-24 14:47:44.562380
+Pforzheim,15:32,Bus 666,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:32 - Leopoldplatz, Pforzheim 15:36 - Turnplatz, Pforzheim 15:37 - Schmuckmuseum, Pforzheim 15:39",,,2021-12-24 14:47:44.563850
+Pforzheim,15:32,Bus 666,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:32 - Leopoldplatz, Pforzheim 15:36 - Turnplatz, Pforzheim 15:37 - Schmuckmuseum, Pforzheim 15:39",,,2021-12-24 14:47:44.565216
+Pforzheim,15:34,RB 74 (17939),103,Pforzheim Hbf 15:34 - Pforzheim Maihälden 15:36 - Brötzingen Mitte 15:38,,,2021-12-24 14:47:44.566506
+Pforzheim,15:34,Bus 5,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:34 - Christophallee, Pforzheim 15:35 - Pfälzer Straße, Pforzheim 15:36 - Zähringer Allee, Pforzheim 15:37",,,2021-12-24 14:47:44.567790
+Pforzheim,15:37,Bus 3,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:37 - Bahnhofstraße, Pforzheim 15:38 - Leopoldstraße, Pforzheim 15:40 - Sedanplatz, Pforzheim 15:43",,,2021-12-24 14:47:44.569192
+Pforzheim,15:37,Bus 5,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:37 - Bahnhofstraße, Pforzheim 15:38 - Leopoldstraße, Pforzheim 15:40 - Waisenhausplatz, Pforzheim 15:43",,,2021-12-24 14:47:44.570685
+Pforzheim,15:38,Bus 2,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:38 - Christophallee, Pforzheim 15:40 - Nordstadtschule, Pforzheim 15:42 - Yorckstraße, Pforzheim 15:43",,,2021-12-24 14:47:44.571988
+Pforzheim,15:38,Bus 6,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:38 - Christophallee, Pforzheim 15:40 - Pfälzer Straße, Pforzheim 15:41 - Zähringer Allee, Pforzheim 15:42",15:38,,2021-12-24 14:47:44.573334
+Pforzheim,15:40,Bus 16,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:40 - Bahnhofstraße, Pforzheim 15:41 - Leopoldstraße, Pforzheim 15:43 - Waisenhausplatz, Pforzheim 15:45",,,2021-12-24 14:47:44.574595
+Pforzheim,15:40,Bus 10,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:40 - Bahnhofstraße, Pforzheim 15:41 - Leopoldplatz, Pforzheim 15:43 - Benckiserpark, Pforzheim 15:46",,,2021-12-24 14:47:44.575893
+Pforzheim,15:40,Bus 716,"ZOB/Hauptbahnhof, Pforzheim","ZOB/Hauptbahnhof, Pforzheim 15:40 - Leopoldplatz, Pforzheim 15:44 - Gerbelstraße, Pforzheim 15:46 - Fritz-Erler-Schule Süd, Pforzheim 15:48",,,2021-12-24 14:47:44.577197
+Pforzheim,15:42,Bus 6,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:42 - Bahnhofstraße, Pforzheim 15:43 - Leopoldstraße, Pforzheim 15:45 - Waisenhausplatz, Pforzheim 15:48",,,2021-12-24 14:47:44.578487
+Pforzheim,15:42,Bus 2,"Hauptbahnhof/ZOB, Pforzheim","Hauptbahnhof/ZOB, Pforzheim 15:42 - Bahnhofstraße, Pforzheim 15:43 - Leopoldplatz, Pforzheim 15:45 - Turnplatz, Pforzheim 15:48",,,2021-12-24 14:47:44.579769
+Pforzheim,15:42,Bus 17,13,"Hauptbahnhof/ZOB, Pforzheim 15:42 - Franziskusstraße, Pforzheim 15:43 - Hauptgüterbahnhof, Pforzheim 15:45 - Blücherstraße, Pforzheim 15:46",,,2021-12-24 14:47:44.581020
+Pforzheim,15:44,RB 17a (19563),5,Pforzheim Hbf 15:44 - Eutingen(Baden) 15:47 - Niefern 15:50 - Enzberg 15:52,15:44,,2021-12-24 14:47:44.582440
+Pforzheim,15:46,S 5,4,Pforzheim Hbf 15:46 - Ispringen 15:49,,,2021-12-24 14:47:44.583677
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Muehlacker,14:51,Bus 700,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 14:51 - Erich Fuchslocher Platz, Mühlacker 14:52 - Karlstraße, Mühlacker 14:54 - Bergstraße, Mühlacker 14:55",,,2021-12-24 14:47:46.737268
+Muehlacker,14:53,Bus 102,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 14:53 - Kreisberufsschule, Mühlacker 14:54 - Bannholz, Mühlacker 14:55 - Behr, Mühlacker 14:55",,,2021-12-24 14:47:46.741203
+Muehlacker,14:54,IRE 1 (19018),2,Mühlacker 14:54 - Pforzheim Hbf 15:02 - Karlsruhe-Durlach 15:18 - Karlsruhe Hbf 15:25,14:54,,2021-12-24 14:47:46.744263
+Muehlacker,14:56,RB 17a (19561),1,Mühlacker 14:56 - Mühlacker Rößlesweg 14:58 - Illingen(Württ) 15:01 - Vaihingen(Enz) 15:04 - Sersheim 15:13 - Sachsenheim 15:16 - Ellental 15:20 - Bietigheim-Bissingen 15:24,14:56,,2021-12-24 14:47:46.746553
+Muehlacker,14:56,Bus 707,"Bahnhof, Mühlacker","Bahnhof, Mühlacker 14:56 - Erich Fuchslocher Platz, Mühlacker 14:58 - Karlstraße, Mühlacker 14:59 - Goethestraße, Mühlacker 15:00 - Im Käppele, Mühlacker 15:02",,,2021-12-24 14:47:46.748586
+Muehlacker,15:01,RB 17a (19566),2,Mühlacker 15:01 - Enzberg 15:04 - Niefern 15:06 - Eutingen(Baden) 15:09 - Pforzheim Hbf 15:13,15:01,,2021-12-24 14:47:46.750879
+Muehlacker,15:02,IRE 1 (19019),1,Mühlacker 15:02 - Vaihingen(Enz) 15:07 - Stuttgart Hbf 15:25,15:02,,2021-12-24 14:47:46.752528
+Muehlacker,15:03,RE 17b (19648),3,Mühlacker 15:03 - Bretten 15:15 - Bruchsal 15:29 - Bad Schönborn-Kronau 15:36 - Wiesloch-Walldorf 15:41 - Heidelberg Hbf 15:52,15:03,,2021-12-24 14:47:46.754129
+Muehlacker,15:03,Bus 103,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 15:03 - Kreisberufsschule, Mühlacker 15:04 - Eckenweiher Straße, Mühlacker 15:05 - Rösslesweg, Mühlacker 15:05 - Steinbeisstraße, Mühlacker 15:07",,,2021-12-24 14:47:46.755834
+Muehlacker,15:03,Bus 700,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 15:03 - Kreisberufsschule, Mühlacker 15:05 - Behr, Mühlacker 15:06 - Lienzingen Friedenstraße, Mühlacker 15:09",,,2021-12-24 14:47:46.757351
+Muehlacker,15:03,Bus 105,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 15:03 - Industriestraße West, Mühlacker 15:04 - Schulerweg, Mühlacker 15:05 - Mörike Realschule, Mühlacker 15:06 - August Lämmle Straße, Mühlacker 15:07 - Enzkreiskliniken, Mühlacker 15:08",,,2021-12-24 14:47:46.758715
+Muehlacker,15:05,Bus 103,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 15:05 - Poststraße, Mühlacker 15:05 - Erich Fuchslocher Platz, Mühlacker 15:06 - Karlstraße, Mühlacker 15:07",,,2021-12-24 14:47:46.760103
+Muehlacker,15:05,Bus 101,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 15:05 - Erich Fuchslocher Platz, Mühlacker 15:06 - Karlstraße, Mühlacker 15:07 - Goethestraße, Mühlacker 15:08",,,2021-12-24 14:47:46.761506
+Muehlacker,15:11,Bus 703,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 15:11 - Erich Fuchslocher Platz, Mühlacker 15:13 - Karlstraße, Mühlacker 15:14 - Goethestraße, Mühlacker 15:15",,,2021-12-24 14:47:46.762693
+Muehlacker,15:22,IRE 1 (19678),2,Mühlacker 15:22 - Pforzheim Hbf 15:30 - Wilferdingen-Singen 15:39 - Karlsruhe-Durlach 15:49 - Karlsruhe Hbf 15:53,15:22,,2021-12-24 14:47:46.763890
+Muehlacker,15:23,Bus 101,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 15:23 - Kreisberufsschule, Mühlacker 15:24 - Bannholz, Mühlacker 15:25 - Behr, Mühlacker 15:25",,,2021-12-24 14:47:46.765173
+Muehlacker,15:29,RB 17a (19518),3,Mühlacker 15:29 - Enzberg 15:32 - Niefern 15:35 - Eutingen(Baden) 15:38 - Pforzheim Hbf 15:42,15:29,,2021-12-24 14:47:46.766501
+Muehlacker,15:30,RB 17a (19523),1,Mühlacker 15:30 - Mühlacker Rößlesweg 15:31 - Illingen(Württ) 15:35 - Vaihingen(Enz) 15:38,15:30,,2021-12-24 14:47:46.768011
+Muehlacker,15:30,RB 17c (19623),1,Mühlacker 15:30 - Mühlacker Rößlesweg 15:31 - Illingen(Württ) 15:35 - Vaihingen(Enz) 15:38,15:30,,2021-12-24 14:47:46.770037
+Muehlacker,15:32,Bus 102,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 15:32 - Industriestraße West, Mühlacker 15:33 - Schulerweg, Mühlacker 15:34 - Mörike Realschule, Mühlacker 15:35",,,2021-12-24 14:47:46.771793
+Muehlacker,15:35,RB 17c (19618),3,Mühlacker 15:35 - Ötisheim 15:39 - Maulbronn West 15:42 - Ölbronn-Dürrn 15:45,15:35,,2021-12-24 14:47:46.773611
+Muehlacker,15:35,Bus 702,"Busbahnhof, Mühlacker","Busbahnhof, Mühlacker 15:35 - Kreisberufsschule, Mühlacker 15:37 - Behr, Mühlacker 15:38 - Lienzingen Friedenstraße, Mühlacker 15:41",,,2021-12-24 14:47:46.774930
+Muehlacker,15:37,IC 2161,1,Mühlacker 15:37 - Vaihingen(Enz) 15:42 - Stuttgart Hbf 16:02 - Schwäbisch Gmünd 16:40 - Aalen Hbf 16:57 - Ellwangen 17:08 - Crailsheim 17:23 - Ansbach 17:49 - Nürnberg Hbf 18:18,,,2021-12-24 14:47:46.776071
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Bretten,14:50,Bus 146,,"Bretten 14:50 - Rinklingen Kirche, Bretten 14:53 - Rinklingen Jahnstraße, Bretten 14:55 - Diedelsheim Rathaus, Bretten 14:59",14:50,,2021-12-24 14:47:49.095096
+Bretten,15:00,S 4,1,Bretten 15:00 - Bretten Stadtmitte 15:02,15:00,,2021-12-24 14:47:49.096996
+Bretten,15:02,RB 17c (19616),3,Bretten 15:02 - Diedelsheim 15:04 - Gondelsheim(Baden) 15:07 - Gondelsheim Schlossstadion 15:08,15:02,,2021-12-24 14:47:49.098988
+Bretten,15:02,RB 17c (19623),6,Bretten 15:02 - Bretten Rechberg 15:03 - Bretten-Ruit 15:06 - Knittlingen-Kleinvillars 15:09,15:02,,2021-12-24 14:47:49.100776
+Bretten,15:02,S 4,2,Bretten 15:02 - Wössingen Ost 15:07,15:02,,2021-12-24 14:47:49.102177
+Bretten,15:04,Bus 700,,"Bretten 15:04 - Alte Post, Bretten 15:06 - Sporgasse, Bretten 15:08 - Gymnasium, Bretten 15:10",,,2021-12-24 14:47:49.103627
+Bretten,15:04,Bus 733,,"Bretten 15:04 - Wilhelmstraße, Bretten 15:06 - Pforzheimer Str., Bretten 15:08 - Hohberghaus, Bretten 15:10",,,2021-12-24 14:47:49.105061
+Bretten,15:13,Bus 146,,"Bretten 15:13 - Alte Post, Bretten 15:15 - Sporgasse, Bretten 15:17 - Gymnasium, Bretten 15:19",15:13,,2021-12-24 14:47:49.106571
+Bretten,15:16,RE 17b (19648),3,Bretten 15:16 - Bruchsal 15:29 - Bad Schönborn-Kronau 15:36 - Wiesloch-Walldorf 15:41 - Heidelberg Hbf 15:52,15:16,,2021-12-24 14:47:49.107926
+Bretten,15:20,S 4,1,Bretten 15:20 - Bretten Stadtmitte 15:22,,Gleiswechsel,2021-12-24 14:47:49.109244
+Bretten,15:20,S 4,,Bretten 15:20 - Rinklingen 15:22,,,2021-12-24 14:47:49.110625
+Bretten,15:34,Bus 733,,"Bretten 15:34 - Alte Post, Bretten 15:36 - Sporgasse, Bretten 15:38 - Gymnasium, Bretten 15:40 - Schulzentrum, Bretten 15:42 - Im Grüner, Bretten 15:44",,,2021-12-24 14:47:49.111839
+Bretten,15:35,Bus 141,,"Bretten 15:35 - Alte Post, Bretten 15:37 - Sporgasse, Bretten 15:40 - Gymnasium, Bretten 15:42",15:35,,2021-12-24 14:47:49.113140
+Bretten,15:40,S 4,2,Bretten 15:40 - Rinklingen 15:42,15:40,,2021-12-24 14:47:49.114201
+Bretten,15:40,S 4,,Bretten 15:40 - Bretten Stadtmitte 15:42 - Bretten Wannenweg 15:43 - Bretten Schulzentrum 15:45 - Bretten Kupferhälde 15:46 - Gölshausen 15:48,,,2021-12-24 14:47:49.115329
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Bruchsal,14:48,Bus 125,"Bahnhof, Bruchsal","Bahnhof, Bruchsal 14:48 - Justus-Knecht-Gymnasium, Bruchsal 14:50 - Ernst-Blickle-Straße, Bruchsal 14:54 - SEW, Bruchsal 14:55",14:48,,2021-12-24 14:47:51.535760
+Bruchsal,14:48,S 32,1b,Bruchsal 14:48 - Bruchsal Bildungszentrum 14:50,14:48,,2021-12-24 14:47:51.537765
+Bruchsal,14:55,Bus 185,"Bahnhof/Hildastraße, Bruchsal","Bahnhof/Hildastraße, Bruchsal 14:55 - Rendezvous, Bruchsal 14:56",14:55,,2021-12-24 14:47:51.539771
+Bruchsal,14:56,Bus 181,"Bahnhof/Hildastraße, Bruchsal","Bahnhof/Hildastraße, Bruchsal 14:56 - Rendezvous, Bruchsal 14:58",14:56,,2021-12-24 14:47:51.541575
+Bruchsal,15:01,Bus 182,"Bahnhof, Bruchsal","Bahnhof, Bruchsal 15:01 - Siemens, Bruchsal 15:05 - Schwetzinger Str., Bruchsal 15:06 - Schwimmbad, Bruchsal 15:08",,,2021-12-24 14:47:51.543297
+Bruchsal,15:02,Bus 183,"Bahnhof/Hildastraße, Bruchsal","Bahnhof/Hildastraße, Bruchsal 15:02 - Kaiserstraße, Bruchsal 15:05 - Pfeilerstraße, Bruchsal 15:06 - Bürgerpark, Bruchsal 15:07",15:02,,2021-12-24 14:47:51.544947
+Bruchsal,15:10,Bus 125,"Bahnhof, Bruchsal","Bahnhof, Bruchsal 15:10 - Kaiserstraße, Bruchsal 15:13 - Käthe-Kollwitz-Schule, Bruchsal 15:15 - Krankenhaus/B3, Bruchsal 15:16",,,2021-12-24 14:47:51.546342
+Bruchsal,15:12,S 32,1b,Bruchsal 15:12 - Bruchsal Schloßgarten 15:14,,,2021-12-24 14:47:51.547678
+Bruchsal,15:15,S 3,3b,Bruchsal 15:15 - Ubstadt-Weiher 15:18,15:15,,2021-12-24 14:47:51.548901
+Bruchsal,15:15,S 3,4,Bruchsal 15:15 - Karlsruhe-Durlach 15:31 - Karlsruhe Hbf 15:38,15:18,,2021-12-24 14:47:51.550030
+Bruchsal,15:18,Bus 125,"Bahnhof, Bruchsal","Bahnhof, Bruchsal 15:18 - Justus-Knecht-Gymnasium, Bruchsal 15:20 - Ernst-Blickle-Straße, Bruchsal 15:24 - SEW, Bruchsal 15:25",15:18,,2021-12-24 14:47:51.551207
+Bruchsal,15:22,IC 2184,3,Bruchsal 15:22 - Wiesloch-Walldorf 15:33 - Heidelberg Hbf 15:44 - Weinheim(Bergstr)Hbf 15:58 - Bensheim 16:08 - Darmstadt Hbf 16:22 - Frankfurt(Main)Hbf 16:40 - Frankfurt(Main)West 16:53 - Friedberg(Hess) 17:15 - Gießen 17:33 - Marburg(Lahn) 17:49 - Treysa 18:14 - Wabern(Bz Kassel) 18:32 - Kassel-Wilhelmshöhe 18:54 - Göttingen 19:16 - Hannover Hbf 19:56 - Celle 20:17 - Uelzen 20:40 - Lüneburg 20:56 - Hamburg-Harburg 21:16 - Hamburg Hbf 21:29 - Hamburg Dammtor 21:36 - Hamburg-Altona 21:46,,,2021-12-24 14:47:51.552567
+Bruchsal,15:26,S 31,1b,Bruchsal 15:26 - Bruchsal Bildungszentrum 15:29 - Untergrombach 15:32 - Weingarten(Baden) 15:36 - Karlsruhe-Durlach 15:42 - Karlsruhe Hbf 15:48,,,2021-12-24 14:47:51.553850
+Bruchsal,15:26,Bus 181,"Bahnhof/Hildastraße, Bruchsal","Bahnhof/Hildastraße, Bruchsal 15:26 - Rendezvous, Bruchsal 15:28",15:26,,2021-12-24 14:47:51.555149
+Bruchsal,15:30,RE 17b (19648),2b,Bruchsal 15:30 - Bad Schönborn-Kronau 15:36 - Wiesloch-Walldorf 15:41 - Heidelberg Hbf 15:52,15:30,,2021-12-24 14:47:51.556542
+Bruchsal,15:31,Bus 186,"Bahnhof, Bruchsal","Bahnhof, Bruchsal 15:31 - Salinenstraße, Bruchsal 15:33 - Justus-Knecht-Gymnasium, Bruchsal 15:34 - Ernst-Blickle-Straße, Bruchsal 15:37",,,2021-12-24 14:47:51.557740
+Bruchsal,15:31,Bus 183,"Bahnhof, Bruchsal","Bahnhof, Bruchsal 15:31 - Siemens, Bruchsal 15:35 - Schwetzinger Str., Bruchsal 15:36 - Schwimmbad, Bruchsal 15:38",15:31,,2021-12-24 14:47:51.559069
+Bruchsal,15:32,S 31,1b,Bruchsal 15:32 - Bruchsal Schloßgarten 15:33,,,2021-12-24 14:47:51.560220
+Bruchsal,15:32,Bus 182,"Bahnhof/Hildastraße, Bruchsal","Bahnhof/Hildastraße, Bruchsal 15:32 - Kaiserstraße, Bruchsal 15:35 - Käthe-Kollwitz-Schule, Bruchsal 15:37 - Damianstor, Bruchsal 15:38",,,2021-12-24 14:47:51.561585
+Bruchsal,15:35,RB 17c (19627),6,Bruchsal 15:35 - Bruchsal Tunnelstraße 15:37 - Bruchsal Schlachthof 15:39 - Heidelsheim Nord 15:42,15:35,,2021-12-24 14:47:51.562957
+Bruchsal,15:37,IC 2266,4,Bruchsal 15:37 - Karlsruhe Hbf 15:52,15:43,,2021-12-24 14:47:51.564680
+Bruchsal,15:40,Bus 125,"Bahnhof, Bruchsal","Bahnhof, Bruchsal 15:40 - Kaiserstraße, Bruchsal 15:43 - Käthe-Kollwitz-Schule, Bruchsal 15:45 - Krankenhaus/B3, Bruchsal 15:46",,,2021-12-24 14:47:51.566382
+Bruchsal,15:40,S 33,5,Bruchsal 15:40 - Bruchsal Sportzentrum 15:41,,,2021-12-24 14:47:51.568038
+Bruchsal,15:42,S 3,3b,Bruchsal 15:42 - Ubstadt-Weiher 15:46,,,2021-12-24 14:47:51.569676
+Bruchsal,15:44,S 3,4,Bruchsal 15:44 - Karlsruhe-Durlach 15:54 - Karlsruhe Hbf 16:00,15:47,,2021-12-24 14:47:51.571165
+Bruchsal,15:45,Bus 131,"Bahnhof, Bruchsal","Bahnhof, Bruchsal 15:45 - Kaiserstraße, Bruchsal 15:48 - Käthe-Kollwitz-Schule, Bruchsal 15:50 - Krankenhaus/B3, Bruchsal 15:51",15:45,,2021-12-24 14:47:51.572810
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Germersheim,14:48,AST 5970,"Bahnhof, Germersheim","Bahnhof, Germersheim 14:48 - Rheinpromenade, Germersheim 14:49 - Germersheim Mitte/Rhein 14:50 - Schlachthof, Germersheim 14:51",,,2021-12-24 14:47:53.993218
+Germersheim,14:49,S 3,5,Germersheim 14:49 - Lingenfeld 14:52,14:49,,2021-12-24 14:47:53.995312
+Germersheim,14:49,S 33,2,Germersheim 14:49 - Germersheim Mitte/Rhein 14:51,14:49,,2021-12-24 14:47:53.997212
+Germersheim,14:50,S 51,4,Germersheim 14:50 - Germersheim Mitte/Rhein 14:52,14:50,,2021-12-24 14:47:53.998886
+Germersheim,14:55,AST 5970,"Bahnhof, Germersheim","Bahnhof, Germersheim 14:55 - Krankenhaus, Germersheim 14:56 - Stadion/Jobcenter, Germersheim 14:57 - Am Sportplatz, Germersheim 14:58",,,2021-12-24 14:47:54.000482
+Germersheim,15:12,S 3,2,Germersheim 15:12 - Lingenfeld 15:15,15:12,,2021-12-24 14:47:54.001952
+Germersheim,15:23,RE 4 (4479),4,Germersheim 15:23 - Philippsburg(Baden) 15:30 - Graben-Neudorf 15:38 - Karlsruhe Hbf 15:53,15:55,Grund: Reparatur an der Oberleitung,2021-12-24 14:47:54.003662
+Germersheim,15:30,Bus 550,"Bahnhof, Germersheim","Bahnhof, Germersheim 15:30 - Straßen-Museum, Germersheim 15:32 - Paradeplatz, Germersheim 15:34 - Stadthalle, Germersheim 15:36",15:30,Änderung im Fahrtverlauf!,2021-12-24 14:47:54.005076
+Germersheim,15:35,AST 5970,"Bahnhof, Germersheim","Bahnhof, Germersheim 15:35 - Münchner Straße, Germersheim 15:36 - Industriegebiet/Mainzer Str., Germersheim 15:37 - Daimler Tor 1, Germersheim 15:39",,,2021-12-24 14:47:54.006489
+Germersheim,15:44,AST 5970,"Bahnhof, Germersheim","Bahnhof, Germersheim 15:44 - Industriegebiet/Mainzer Str., Germersheim 15:47 - Daimler Tor 1, Germersheim 15:49 - Daimler AG Tor 3, Germersheim 15:51",,,2021-12-24 14:47:54.007942
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Heidelberg,14:46,EC 218,3,Heidelberg Hbf 14:46 - Weinheim(Bergstr)Hbf 14:58 - Bensheim 15:08 - Darmstadt Hbf 15:22 - Frankfurt(Main)Hbf 15:40,14:53,Grund: Beschädigung einer Brücke,2021-12-24 14:48:01.398548
+Heidelberg,14:48,S 3,8,Heidelberg Hbf 14:48 - Heidelberg-Kirchheim/Rohrbach 14:50,14:48,,2021-12-24 14:48:01.403001
+Heidelberg,14:48,Bus 34,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:48 - Stadtwerke, Heidelberg 14:50 - Campus Bergheim, Heidelberg 14:52 - Altes Hallenbad, Heidelberg 14:53",,,2021-12-24 14:48:01.405163
+Heidelberg,14:48,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:48 - Stadtwerke, Heidelberg 14:49",14:48,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.407354
+Heidelberg,14:49,RE 10b (19277),4,Heidelberg Hbf 14:49 - Neckargemünd 14:59 - Meckesheim 15:06 - Sinsheim(Elsenz) Hbf 15:13 - Bad Rappenau 15:25 - Bad Wimpfen 15:31 - Bad Friedrichshall Hbf 15:36 - Neckarsulm 15:43 - Heilbronn Hbf 15:49,14:50,,2021-12-24 14:48:01.409526
+Heidelberg,14:49,Bus 720,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:49 - Stadtwerke, Heidelberg 14:52",,,2021-12-24 14:48:01.411327
+Heidelberg,14:50,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 14:50 - Bahnstadt Gadamerplatz, Heidelberg 14:51",14:50,,2021-12-24 14:48:01.413097
+Heidelberg,14:52,Bus 33,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:52 - Montpellierbrücke, Heidelberg 14:55 - Mary-Somerville-Platz (hip), Heidelberg 14:57 - Innovation Park (hip), Heidelberg 14:58",14:52,,2021-12-24 14:48:01.414818
+Heidelberg,14:52,STR 24,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:52 - Betriebshof, Heidelberg 14:54",14:52,,2021-12-24 14:48:01.416617
+Heidelberg,14:53,STR 24,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:53 - Stadtwerke, Heidelberg 14:54",14:53,,2021-12-24 14:48:01.418475
+Heidelberg,14:53,Bus 34,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:53 - Betriebshof, Heidelberg 14:54 - Gneisenaustraße, Heidelberg 14:56 - Neckarspitze, Heidelberg 14:57",,,2021-12-24 14:48:01.420162
+Heidelberg,14:54,Bus 20,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:54 -",14:54,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.421911
+Heidelberg,14:54,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 14:54 - Montpellierbrücke, Heidelberg 14:56 - Ringstraße, Heidelberg 14:57 -",14:54,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.423563
+Heidelberg,14:55,S 1,7,Heidelberg Hbf 14:55 - Heidelberg-Weststadt/Südstadt 14:56,14:58,,2021-12-24 14:48:01.425046
+Heidelberg,14:55,Bus 20,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:55 - Betriebshof, Heidelberg 14:57 - Neuenheim Jahnstraße, Heidelberg 14:59 - Neuenheim Kirschnerstraße, Heidelberg 15:01",14:55,,2021-12-24 14:48:01.426688
+Heidelberg,14:56,Bus 32,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:56 -",14:56,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.428433
+Heidelberg,14:57,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 14:57 - Rudolf-Diesel-Straße, Heidelberg 14:59",14:57,,2021-12-24 14:48:01.430273
+Heidelberg,14:57,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 14:57 - Bahnstadt Gadamerplatz, Heidelberg 14:58",14:57,,2021-12-24 14:48:01.432245
+Heidelberg,14:57,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:57 - Gneisenaustraße Süd, Heidelberg 14:58",,,2021-12-24 14:48:01.434139
+Heidelberg,14:58,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:58 - Stadtwerke, Heidelberg 14:59 -",14:58,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.436303
+Heidelberg,14:59,Bus 717,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 14:59 - Stadtwerke, Heidelberg 15:01",14:59,,2021-12-24 14:48:01.438263
+Heidelberg,15:00,Bus 717,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:00 - Montpellierbrücke B, Heidelberg 15:03 - SNP dome, Heidelberg 15:05 - Pleikartsförsterhof, Heidelberg 15:06",,,2021-12-24 14:48:01.439887
+Heidelberg,15:00,Bus 721,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:00 - Czernybrücke, Heidelberg 15:03 - Betriebshof, Heidelberg 15:05 - Neuenheim Jahnstraße, Heidelberg 15:07 - Neuenheim Bunsengymnasium Steig E, Heidelberg 15:08",15:02,,2021-12-24 14:48:01.441770
+Heidelberg,15:00,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:00 - Bahnstadt Gadamerplatz, Heidelberg 15:01",15:00,,2021-12-24 14:48:01.443604
+Heidelberg,15:01,S 5,3,Heidelberg Hbf 15:01 - Heidelberg-Weststadt/Südstadt 15:02,15:01,,2021-12-24 14:48:01.444953
+Heidelberg,15:01,Bus 720,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:01 - Montpellierbrücke B, Heidelberg 15:04 - SNP dome, Heidelberg 15:06 - Kirchheim Im Bieth, Heidelberg 15:08",,,2021-12-24 14:48:01.446230
+Heidelberg,15:02,STR 24,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:02 - Betriebshof, Heidelberg 15:04",15:02,,2021-12-24 14:48:01.447510
+Heidelberg,15:03,S 1,2,Heidelberg Hbf 15:03 - Heidelberg-Pfaffengrund/Wieblingen 15:06,15:05,,2021-12-24 14:48:01.448770
+Heidelberg,15:03,STR 24,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:03 - Stadtwerke, Heidelberg 15:04",15:03,,2021-12-24 14:48:01.450031
+Heidelberg,15:04,Bus 33,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:04 - Stadtbücherei, Heidelberg 15:07 - Seegarten, Heidelberg 15:08 - Bismarckplatz, Heidelberg 15:09",15:04,,2021-12-24 14:48:01.451357
+Heidelberg,15:04,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:04 - Montpellierbrücke, Heidelberg 15:06 - Ringstraße, Heidelberg 15:07 -",15:04,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.452716
+Heidelberg,15:06,Bus 32,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:06 - Betriebshof, Heidelberg 15:08 - Neuenheim Jahnstraße, Heidelberg 15:10 - Neuenheim Kirschnerstraße, Heidelberg 15:12",,,2021-12-24 14:48:01.454009
+Heidelberg,15:07,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:07 - Rudolf-Diesel-Straße, Heidelberg 15:09",15:07,,2021-12-24 14:48:01.455326
+Heidelberg,15:07,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:07 - Bahnstadt Gadamerplatz, Heidelberg 15:08",15:07,,2021-12-24 14:48:01.456648
+Heidelberg,15:07,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:07 - Gneisenaustraße Süd, Heidelberg 15:08",,,2021-12-24 14:48:01.457990
+Heidelberg,15:08,Bus 34,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:08 - Stadtwerke, Heidelberg 15:10 - Campus Bergheim, Heidelberg 15:12 - Altes Hallenbad, Heidelberg 15:13",,,2021-12-24 14:48:01.459318
+Heidelberg,15:08,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:08 - Stadtwerke, Heidelberg 15:09",15:08,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.460820
+Heidelberg,15:10,RE 10b (19272),2,Heidelberg Hbf 15:10 - Mannheim Hbf 15:24,15:10,,2021-12-24 14:48:01.461992
+Heidelberg,15:10,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:10 - Bahnstadt Gadamerplatz, Heidelberg 15:11",15:10,,2021-12-24 14:48:01.463194
+Heidelberg,15:12,Bus 33,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:12 - Montpellierbrücke, Heidelberg 15:15 - Mary-Somerville-Platz (hip), Heidelberg 15:17 - Innovation Park (hip), Heidelberg 15:18",15:12,,2021-12-24 14:48:01.464406
+Heidelberg,15:12,STR 24,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:12 - Betriebshof, Heidelberg 15:14",15:12,,2021-12-24 14:48:01.465623
+Heidelberg,15:13,S 3,5,Heidelberg Hbf 15:13 - Heidelberg-Pfaffengrund/Wieblingen 15:15,15:15,,2021-12-24 14:48:01.466731
+Heidelberg,15:13,EC 117,7,Heidelberg Hbf 15:13 - Stuttgart Hbf 15:53 - Ulm Hbf 16:54 - Günzburg 17:08,15:13,,2021-12-24 14:48:01.467799
+Heidelberg,15:13,Bus 34,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:13 - Betriebshof, Heidelberg 15:14 - Gneisenaustraße, Heidelberg 15:16 - Neckarspitze, Heidelberg 15:17",,,2021-12-24 14:48:01.468993
+Heidelberg,15:13,Bus 34,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:13 - Betriebshof, Heidelberg 15:14 - Gneisenaustraße, Heidelberg 15:16 - Neckarspitze, Heidelberg 15:17",,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.470279
+Heidelberg,15:14,Bus 20,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:14 -",15:14,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.471560
+Heidelberg,15:14,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:14 - Montpellierbrücke, Heidelberg 15:16 - Ringstraße, Heidelberg 15:17 -",15:14,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.473122
+Heidelberg,15:15,Bus 20,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:15 - Betriebshof, Heidelberg 15:17 - Neuenheim Jahnstraße, Heidelberg 15:19 - Neuenheim Kirschnerstraße, Heidelberg 15:21",15:15,,2021-12-24 14:48:01.474442
+Heidelberg,15:16,Bus 32,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:16 -",15:16,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.476327
+Heidelberg,15:17,Bus 721,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:17 - Bahnstadt Schwetzinger Terrasse, Heidelberg 15:19 - SNP dome, Heidelberg 15:20 - Kirchheim Im Bieth, Heidelberg 15:22",15:17,,2021-12-24 14:48:01.477848
+Heidelberg,15:17,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:17 - Rudolf-Diesel-Straße, Heidelberg 15:19",15:17,,2021-12-24 14:48:01.479224
+Heidelberg,15:17,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:17 - Bahnstadt Gadamerplatz, Heidelberg 15:18",15:17,,2021-12-24 14:48:01.480941
+Heidelberg,15:17,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:17 - Gneisenaustraße Süd, Heidelberg 15:18",,,2021-12-24 14:48:01.482450
+Heidelberg,15:18,S 3,8,Heidelberg Hbf 15:18 - Heidelberg-Kirchheim/Rohrbach 15:20,15:19,,2021-12-24 14:48:01.483688
+Heidelberg,15:18,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:18 - Stadtwerke, Heidelberg 15:19 -",15:18,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.485010
+Heidelberg,15:19,Bus 720,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:19 - Stadtwerke, Heidelberg 15:22",,,2021-12-24 14:48:01.486265
+Heidelberg,15:19,STR 24,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:19 - Stadtwerke, Heidelberg 15:20",15:19,,2021-12-24 14:48:01.487809
+Heidelberg,15:20,RB 68 (15392),3,Heidelberg Hbf 15:20 - Heidelberg-Pfaffengrund/Wieblingen 15:23 - Neu-Edingen/Friedrichsfeld 15:29,15:20,,2021-12-24 14:48:01.489243
+Heidelberg,15:20,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:20 - Bahnstadt Gadamerplatz, Heidelberg 15:21",15:20,,2021-12-24 14:48:01.490793
+Heidelberg,15:22,STR 24,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:22 - Betriebshof, Heidelberg 15:23",15:22,,2021-12-24 14:48:01.492143
+Heidelberg,15:24,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:24 - Montpellierbrücke, Heidelberg 15:26 - Ringstraße, Heidelberg 15:27 -",15:24,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.493483
+Heidelberg,15:24,Bus 33,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:24 - Stadtbücherei, Heidelberg 15:27 - Seegarten, Heidelberg 15:28 - Bismarckplatz, Heidelberg 15:29",15:24,,2021-12-24 14:48:01.494794
+Heidelberg,15:25,S 2,7,Heidelberg Hbf 15:25 - Heidelberg-Weststadt/Südstadt 15:26,15:28,,2021-12-24 14:48:01.495986
+Heidelberg,15:26,Bus 32,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:26 - Betriebshof, Heidelberg 15:28 - Neuenheim Jahnstraße, Heidelberg 15:30 - Neuenheim Kirschnerstraße, Heidelberg 15:32",,,2021-12-24 14:48:01.497244
+Heidelberg,15:27,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:27 - Rudolf-Diesel-Straße, Heidelberg 15:29",15:27,,2021-12-24 14:48:01.498617
+Heidelberg,15:27,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:27 - Bahnstadt Gadamerplatz, Heidelberg 15:28",15:27,,2021-12-24 14:48:01.500046
+Heidelberg,15:27,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:27 - Gneisenaustraße Süd, Heidelberg 15:28",,,2021-12-24 14:48:01.501459
+Heidelberg,15:28,Bus 34,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:28 - Stadtwerke, Heidelberg 15:30 - Campus Bergheim, Heidelberg 15:32 - Altes Hallenbad, Heidelberg 15:33",,,2021-12-24 14:48:01.502684
+Heidelberg,15:28,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:28 - Stadtwerke, Heidelberg 15:29",15:28,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.503996
+Heidelberg,15:30,Bus 721,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:30 - Czernybrücke, Heidelberg 15:33 - Betriebshof, Heidelberg 15:35 - Neuenheim Jahnstraße, Heidelberg 15:37 - Neuenheim Bunsengymnasium Steig E, Heidelberg 15:38",,,2021-12-24 14:48:01.505268
+Heidelberg,15:30,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:30 - Bahnstadt Gadamerplatz, Heidelberg 15:31",15:30,,2021-12-24 14:48:01.506519
+Heidelberg,15:31,S 5,4,Heidelberg Hbf 15:31 - Heidelberg-Weststadt/Südstadt 15:32,,,2021-12-24 14:48:01.507598
+Heidelberg,15:31,S 51,4,Heidelberg Hbf 15:31 - Heidelberg-Weststadt/Südstadt 15:32,,,2021-12-24 14:48:01.508749
+Heidelberg,15:31,Bus 720,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:31 - Montpellierbrücke B, Heidelberg 15:34 - SNP dome, Heidelberg 15:36 - Kirchheim Im Bieth, Heidelberg 15:38",,,2021-12-24 14:48:01.509981
+Heidelberg,15:32,Bus 33,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:32 - Montpellierbrücke, Heidelberg 15:35 - Mary-Somerville-Platz (hip), Heidelberg 15:37 - Innovation Park (hip), Heidelberg 15:38",15:32,,2021-12-24 14:48:01.511243
+Heidelberg,15:32,STR 24,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:32 - Betriebshof, Heidelberg 15:34",15:32,,2021-12-24 14:48:01.512615
+Heidelberg,15:33,S 2,2,Heidelberg Hbf 15:33 - Heidelberg-Pfaffengrund/Wieblingen 15:35,15:35,,2021-12-24 14:48:01.513991
+Heidelberg,15:33,Bus 34,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:33 - Betriebshof, Heidelberg 15:34 - Gneisenaustraße, Heidelberg 15:36 - Neckarspitze, Heidelberg 15:37",,,2021-12-24 14:48:01.515317
+Heidelberg,15:34,Bus 20,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:34 -",15:34,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.516849
+Heidelberg,15:34,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:34 - Montpellierbrücke, Heidelberg 15:36 - Ringstraße, Heidelberg 15:37 -",15:34,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.518742
+Heidelberg,15:35,Bus 20,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:35 - Betriebshof, Heidelberg 15:37 - Neuenheim Jahnstraße, Heidelberg 15:39 - Neuenheim Kirschnerstraße, Heidelberg 15:41",15:35,,2021-12-24 14:48:01.520797
+Heidelberg,15:36,ICE 713,7,Heidelberg Hbf 15:36 - Vaihingen(Enz) 16:03 - Stuttgart Hbf 16:22,15:58,Grund: Reparatur an der Oberleitung,2021-12-24 14:48:01.522354
+Heidelberg,15:36,Bus 32,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:36 -",15:36,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.524352
+Heidelberg,15:37,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:37 - Bahnstadt Gadamerplatz, Heidelberg 15:38",15:37,,2021-12-24 14:48:01.526192
+Heidelberg,15:37,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:37 - Gneisenaustraße Süd, Heidelberg 15:38",,,2021-12-24 14:48:01.528036
+Heidelberg,15:38,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:38 - Stadtwerke, Heidelberg 15:39 -",15:38,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.529974
+Heidelberg,15:39,STR 24,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:39 - Stadtwerke, Heidelberg 15:40",15:39,,2021-12-24 14:48:01.531284
+Heidelberg,15:40,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:40 - Bahnstadt Gadamerplatz, Heidelberg 15:41",15:40,,2021-12-24 14:48:01.532641
+Heidelberg,15:42,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:42 - Rudolf-Diesel-Straße, Heidelberg 15:44 - Kirchheim Messplatz, Heidelberg 15:46 - Kirchheim Ilse-Krall-Straße, Heidelberg 15:47 - Kirchheim Albert-Fritz-Straße, Heidelberg 15:48 - Kirchheim Odenwaldstraße, Heidelberg 15:50 - Kirchheim Rathaus, Heidelberg (Halt entfällt) 15:51 - Kirchheim Friedhof, Heidelberg (Halt entfällt) 15:53",15:42,"Fährt heute nur bis Kirchheim Odenwaldstraße, Heidelberg",2021-12-24 14:48:01.534028
+Heidelberg,15:43,S 3,5,Heidelberg Hbf 15:43 - Heidelberg-Pfaffengrund/Wieblingen 15:45,15:44,,2021-12-24 14:48:01.535689
+Heidelberg,15:44,Bus 33,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:44 - Stadtbücherei, Heidelberg 15:47 - Seegarten, Heidelberg 15:48 - Bismarckplatz, Heidelberg 15:49",15:44,,2021-12-24 14:48:01.537079
+Heidelberg,15:44,STR 22,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:44 - Montpellierbrücke, Heidelberg 15:46 - Ringstraße, Heidelberg 15:47 -",15:44,Änderung im Fahrtverlauf!,2021-12-24 14:48:01.538431
+Heidelberg,15:46,IC 2184,3,Heidelberg Hbf 15:46 - Weinheim(Bergstr)Hbf 15:58 - Bensheim 16:08 - Darmstadt Hbf 16:22 - Frankfurt(Main)Hbf 16:40 - Frankfurt(Main)West 16:53 - Friedberg(Hess) 17:15 - Gießen 17:33 - Marburg(Lahn) 17:49 - Treysa 18:14 - Wabern(Bz Kassel) 18:32 - Kassel-Wilhelmshöhe 18:54 - Göttingen 19:16 - Hannover Hbf 19:56 - Celle 20:17 - Uelzen 20:40 - Lüneburg 20:56 - Hamburg-Harburg 21:16 - Hamburg Hbf 21:29 - Hamburg Dammtor 21:36 - Hamburg-Altona 21:46,,,2021-12-24 14:48:01.539566
+Heidelberg,15:46,Bus 32,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:46 - Betriebshof, Heidelberg 15:48 - Neuenheim Jahnstraße, Heidelberg 15:50 - Neuenheim Kirschnerstraße, Heidelberg 15:52",,,2021-12-24 14:48:01.540865
+Heidelberg,15:47,Bus 735,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:47 - Stadtbücherei, Heidelberg 15:49 - Seegarten, Heidelberg 15:50 - Bismarckplatz, Heidelberg 15:52",,,2021-12-24 14:48:01.542208
+Heidelberg,15:47,Bus 721,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:47 - Bahnstadt Schwetzinger Terrasse, Heidelberg 15:49 - SNP dome, Heidelberg 15:50 - Kirchheim Im Bieth, Heidelberg 15:52",,,2021-12-24 14:48:01.543466
+Heidelberg,15:47,STR 26,"Bahnstadt Hauptbahnhof Süd, Heidelberg","Bahnstadt Hauptbahnhof Süd, Heidelberg 15:47 - Bahnstadt Gadamerplatz, Heidelberg 15:48",15:47,,2021-12-24 14:48:01.544760
+Heidelberg,15:47,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:47 - Gneisenaustraße Süd, Heidelberg 15:48",,,2021-12-24 14:48:01.546001
+Heidelberg,15:48,S 3,8,Heidelberg Hbf 15:48 - Heidelberg-Kirchheim/Rohrbach 15:50,15:48,,2021-12-24 14:48:01.547145
+Heidelberg,15:48,Bus 34,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:48 - Stadtwerke, Heidelberg 15:50 - Campus Bergheim, Heidelberg 15:52 - Altes Hallenbad, Heidelberg 15:53",,,2021-12-24 14:48:01.548386
+Heidelberg,15:48,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:48 - Stadtwerke, Heidelberg 15:49",,,2021-12-24 14:48:01.549730
+Heidelberg,15:48,RNV 5,"Hauptbahnhof, Heidelberg","Hauptbahnhof, Heidelberg 15:48 - Stadtwerke, Heidelberg 15:49 - Stadtbücherei, Heidelberg 15:51 - Seegarten, Heidelberg 15:52 - Bismarckplatz, Heidelberg 15:54 - Neuenheim Brückenstraße, Heidelberg 15:58 - Neuenheim Kußmaulstraße, Heidelberg 15:59 - Neuenheim Blumenthalstraße, Heidelberg 16:00 - Handschuhsheim Kapellenweg, Heidelberg 16:01 - Handschuhsheim Hans-Thoma-Platz, Heidelberg 16:03 - Handschuhsheim Biethsstraße, Heidelberg 16:05 - Handschuhsheim Burgstraße, Heidelberg 16:06 - Dossenheim Süd 16:08 - Bahnhof, Dossenheim 16:09 - Dossenheim Nord 16:11 - Schriesheim Süd 16:13 - Bahnhof, Schriesheim 16:14 - Zentgrafenstraße, Schriesheim 16:21 - Leutershausen Bahnhof, Hirschberg an der Bergstraß 16:24 - Großsachsen Süd, Hirschberg an der Bergstraße 16:26 - Großsachsen Bahnhof, Hirschberg an der Bergstraße 16:28 - Hohensachsen, Weinheim 16:30 - Lützelsachsen Bergstraße, Weinheim 16:31 - Lützelsachsen Pilgerhaus, Weinheim 16:32 - Rosenbrunnen, Weinheim 16:33 - Alter OEG-Bahnhof, Weinheim 16:35",15:48,,2021-12-24 14:48:01.551112
+station,time,train,platform,route,delayedTime,information,timestampScraping
+Mannheim,13:54,IC 2013,4,Mannheim Hbf 13:54 - Heidelberg Hbf (Halt entfällt) 14:04 - Stuttgart Hbf 14:46 - Plochingen 15:12 - Göppingen 15:26 - Ulm Hbf 16:14 - Memmingen 16:44 - Kempten(Allgäu)Hbf 17:08 - Immenstadt 17:25 - Sonthofen 17:51 - Fischen 18:00 - Oberstdorf 18:11,15:09,Änderung im Fahrtverlauf!,2021-12-24 14:48:04.168110
+Mannheim,14:36,ICE 518,3,Mannheim Hbf 14:36 - Frankfurt(M) Flughafen Fernbf 15:06 - Köln Hbf 16:05 - Düsseldorf Hbf 16:32 - Duisburg Hbf 16:46 - Essen Hbf 16:59 - Bochum Hbf 17:09 - Dortmund Hbf 17:22 - Münster(Westf)Hbf 17:55 - Osnabrück Hbf 18:21 - Bremen Hbf 19:15 - Hamburg-Harburg 20:01 - Hamburg Hbf 20:14 - Hamburg Dammtor 20:20 - Hamburg-Altona 20:29,14:56,Grund: Polizeieinsatz,2021-12-24 14:48:04.170669
+Mannheim,14:46,ICE 2879,8,Mannheim Hbf 14:46 - Karlsruhe Hbf 15:09 - Baden-Baden 15:26 - Freiburg(Breisgau) Hbf 16:11 - Basel Bad Bf 16:46 - Basel SBB 16:55 - Zürich HB 18:00 - Sargans 19:03 - Landquart 19:12 - Chur 19:23,14:54,Ersatzfahrt für,2021-12-24 14:48:04.173034
+Mannheim,14:48,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:48 - Kunsthalle, Mannheim 14:50",14:48,,2021-12-24 14:48:04.178486
+Mannheim,14:48,RNV 5A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:48 - Universität, Mannheim 14:50 - Schloss, Mannheim 14:51 - Paradeplatz, Mannheim 14:53 - Marktplatz, Mannheim 14:55 - Abendakademie, Mannheim 14:57",,,2021-12-24 14:48:04.180580
+Mannheim,14:48,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:48 - Universität, Mannheim 14:50",14:48,Änderung im Fahrtverlauf!,2021-12-24 14:48:04.182672
+Mannheim,14:49,RNV 4A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:49 - Universität, Mannheim 14:51",14:49,,2021-12-24 14:48:04.184622
+Mannheim,14:49,Bus 65,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:49 - Schloss, Mannheim 14:52 - Universität West, Mannheim 14:53 - Akademiestraße, Mannheim 14:54 - Teufelsbrücke, Mannheim 14:55 - Popakademie, Mannheim 14:56",,,2021-12-24 14:48:04.186204
+Mannheim,14:50,Bus 710,"Hauptbahnhof ZOB (SteigE/F), Mannheim","Hauptbahnhof ZOB (SteigE/F), Mannheim 14:50 - Hochschule, Mannheim 14:55 - Neckarau Bahnhof, Mannheim 14:59 - Neckarau Kabel und Draht, Mannheim 15:00",14:50,,2021-12-24 14:48:04.187905
+Mannheim,14:52,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:52 - Lindenhof MA Hauptbahnhof Süd, Mannheim 14:54",14:52,,2021-12-24 14:48:04.189571
+Mannheim,14:53,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:53 - Tattersall, Mannheim 14:55",,,2021-12-24 14:48:04.191353
+Mannheim,14:54,Bus 60,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:54 - Kunsthalle, Mannheim 14:56 - Wasserturm, Mannheim 14:57 - Am Friedrichsplatz, Mannheim 14:59",,,2021-12-24 14:48:04.192692
+Mannheim,14:54,Bus 63,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:54 - Kunsthalle, Mannheim 14:56 - Wasserturm, Mannheim 14:57 - Am Friedrichsplatz, Mannheim 14:59",14:54,Änderung im Fahrtverlauf!,2021-12-24 14:48:04.194100
+Mannheim,14:55,RNV 4A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:55 - Kunsthalle, Mannheim 14:57",14:55,,2021-12-24 14:48:04.195420
+Mannheim,14:56,S 2,1,Mannheim Hbf 14:56 - Ludwigshafen(Rhein) Mitte 14:58,14:57,,2021-12-24 14:48:04.196632
+Mannheim,14:56,S 9,11,Mannheim Hbf 14:56 - Mannheim Handelshafen 14:59,14:56,,2021-12-24 14:48:04.197866
+Mannheim,14:56,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:56 - Universität, Mannheim 14:58",,,2021-12-24 14:48:04.199241
+Mannheim,14:56,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:56 - Kunsthalle, Mannheim 14:58",,,2021-12-24 14:48:04.200615
+Mannheim,14:58,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:58 - Kunsthalle, Mannheim 15:00",14:58,,2021-12-24 14:48:04.202027
+Mannheim,14:58,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:58 - Universität, Mannheim 15:00",,,2021-12-24 14:48:04.203572
+Mannheim,14:58,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:58 - Universität, Mannheim 15:00",14:58,,2021-12-24 14:48:04.205099
+Mannheim,14:59,S 3,9,Mannheim Hbf 14:59 - Mannheim ARENA/Maimarkt 15:03,15:00,,2021-12-24 14:48:04.206751
+Mannheim,14:59,RNV 4,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 14:59 - Universität, Mannheim 15:01",14:59,,2021-12-24 14:48:04.208488
+Mannheim,15:02,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:02 - Lindenhof MA Hauptbahnhof Süd, Mannheim 15:04",15:02,,2021-12-24 14:48:04.210129
+Mannheim,15:03,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:03 - Tattersall, Mannheim 15:05",,,2021-12-24 14:48:04.211679
+Mannheim,15:03,Bus 60,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:03 - Universität, Mannheim 15:05 - Schloss, Mannheim 15:07 - Universität West, Mannheim 15:08",15:03,,2021-12-24 14:48:04.213719
+Mannheim,15:04,S 3,1,Mannheim Hbf 15:04 - Ludwigshafen(Rhein) Mitte 15:06,15:04,,2021-12-24 14:48:04.215379
+Mannheim,15:05,RNV 9,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:05 - Berliner Platz, Ludwigshafen am Rhein 15:09",15:05,,2021-12-24 14:48:04.216929
+Mannheim,15:05,RNV 4,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:05 - Kunsthalle, Mannheim 15:07",15:05,,2021-12-24 14:48:04.218386
+Mannheim,15:06,S 9,12,Mannheim Hbf 15:06 - Mannheim-Neckarau 15:09,15:06,Gleiswechsel,2021-12-24 14:48:04.219803
+Mannheim,15:06,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:06 - Universität, Mannheim 15:08",,,2021-12-24 14:48:04.221065
+Mannheim,15:06,RNV 5A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:06 - Kunsthalle, Mannheim 15:07",,,2021-12-24 14:48:04.222351
+Mannheim,15:06,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:06 - Kunsthalle, Mannheim 15:08",,,2021-12-24 14:48:04.223626
+Mannheim,15:07,S 2,10,Mannheim Hbf 15:07 - Mannheim ARENA/Maimarkt 15:11,15:10,,2021-12-24 14:48:04.224844
+Mannheim,15:08,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:08 - Kunsthalle, Mannheim 15:10",15:08,,2021-12-24 14:48:04.226118
+Mannheim,15:08,RNV 5A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:08 - Universität, Mannheim 15:10 - Schloss, Mannheim 15:11 - Paradeplatz, Mannheim 15:13 - Marktplatz, Mannheim 15:15 - Abendakademie, Mannheim 15:17",,,2021-12-24 14:48:04.227318
+Mannheim,15:08,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:08 - Universität, Mannheim 15:10",,,2021-12-24 14:48:04.228618
+Mannheim,15:09,RNV 4A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:09 - Universität, Mannheim 15:11",15:09,,2021-12-24 14:48:04.229999
+Mannheim,15:09,Bus 65,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:09 - Schloss, Mannheim 15:12 - Universität West, Mannheim 15:13 - Akademiestraße, Mannheim 15:14 - Teufelsbrücke, Mannheim 15:15 - Popakademie, Mannheim 15:16",,,2021-12-24 14:48:04.231329
+Mannheim,15:12,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:12 - Lindenhof MA Hauptbahnhof Süd, Mannheim 15:14",15:12,,2021-12-24 14:48:04.232717
+Mannheim,15:13,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:13 - Tattersall, Mannheim 15:15",,,2021-12-24 14:48:04.234007
+Mannheim,15:15,S 6,1,Mannheim Hbf 15:15 - Ludwigshafen(Rhein) Mitte 15:17,15:16,,2021-12-24 14:48:04.235182
+Mannheim,15:15,RE 60 (4670),7b,Mannheim Hbf 15:15 - Neu-Edingen/Friedrichsfeld 15:26 - Ladenburg 15:31,15:15,Gleiswechsel,2021-12-24 14:48:04.236750
+Mannheim,15:15,RNV 4A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:15 - Kunsthalle, Mannheim 15:17",15:15,,2021-12-24 14:48:04.238011
+Mannheim,15:16,ICE 72,3,Mannheim Hbf 15:16 - Frankfurt(Main)Hbf 15:52 - Kassel-Wilhelmshöhe 17:19 - Göttingen 17:38 - Hannover Hbf 18:17 - Hamburg Hbf 19:35 - Hamburg Dammtor 19:41 - Hamburg-Altona 19:50,15:18,,2021-12-24 14:48:04.239151
+Mannheim,15:16,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:16 - Universität, Mannheim 15:18",,,2021-12-24 14:48:04.240422
+Mannheim,15:16,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:16 - Kunsthalle, Mannheim 15:18",,,2021-12-24 14:48:04.241761
+Mannheim,15:17,RNV 9,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:17 - Tattersall, Mannheim 15:19",15:17,,2021-12-24 14:48:04.243028
+Mannheim,15:18,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:18 - Kunsthalle, Mannheim 15:20",,,2021-12-24 14:48:04.244377
+Mannheim,15:18,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:18 - Universität, Mannheim 15:20",,,2021-12-24 14:48:04.245779
+Mannheim,15:18,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:18 - Universität, Mannheim 15:20",15:18,,2021-12-24 14:48:04.247239
+Mannheim,15:19,RNV 4,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:19 - Universität, Mannheim 15:21",15:19,,2021-12-24 14:48:04.249384
+Mannheim,15:20,Bus 710,"Hauptbahnhof ZOB (SteigE/F), Mannheim","Hauptbahnhof ZOB (SteigE/F), Mannheim 15:20 - Hochschule, Mannheim 15:25 - Neckarau Bahnhof, Mannheim 15:29 - Neckarau Kabel und Draht, Mannheim 15:30",,,2021-12-24 14:48:04.251023
+Mannheim,15:21,TGV 9583,2,Mannheim Hbf 15:21 - Frankfurt(Main)Hbf 15:58,15:23,,2021-12-24 14:48:04.252831
+Mannheim,15:22,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:22 - Lindenhof MA Hauptbahnhof Süd, Mannheim 15:24",,,2021-12-24 14:48:04.254452
+Mannheim,15:23,ICE 713,8,Mannheim Hbf 15:23 - Heidelberg Hbf 15:34 - Vaihingen(Enz) 16:03 - Stuttgart Hbf 16:22,15:44,Grund: Reparatur an der Oberleitung,2021-12-24 14:48:04.255706
+Mannheim,15:23,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:23 - Tattersall, Mannheim 15:25",,,2021-12-24 14:48:04.257207
+Mannheim,15:24,Bus 60,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:24 - Kunsthalle, Mannheim 15:26 - Wasserturm, Mannheim 15:27 - Am Friedrichsplatz, Mannheim 15:29",,,2021-12-24 14:48:04.258632
+Mannheim,15:24,Bus 63,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:24 - Kunsthalle, Mannheim 15:26 - Wasserturm, Mannheim 15:27 - Am Friedrichsplatz, Mannheim 15:29",15:24,Änderung im Fahrtverlauf!,2021-12-24 14:48:04.259998
+Mannheim,15:25,RNV 4,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:25 - Kunsthalle, Mannheim 15:27",15:25,,2021-12-24 14:48:04.261266
+Mannheim,15:26,S 1,1,Mannheim Hbf 15:26 - Ludwigshafen(Rhein) Mitte 15:28,15:27,,2021-12-24 14:48:04.262388
+Mannheim,15:26,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:26 - Universität, Mannheim 15:28",,,2021-12-24 14:48:04.263575
+Mannheim,15:26,RNV 5A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:26 - Kunsthalle, Mannheim 15:27",,,2021-12-24 14:48:04.264770
+Mannheim,15:26,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:26 - Kunsthalle, Mannheim 15:28",,,2021-12-24 14:48:04.265968
+Mannheim,15:28,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:28 - Kunsthalle, Mannheim 15:30",15:28,,2021-12-24 14:48:04.267373
+Mannheim,15:28,RNV 5A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:28 - Universität, Mannheim 15:30 - Schloss, Mannheim 15:31 - Paradeplatz, Mannheim 15:33 - Marktplatz, Mannheim 15:35 - Abendakademie, Mannheim 15:37",,,2021-12-24 14:48:04.268670
+Mannheim,15:28,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:28 - Universität, Mannheim 15:30",,,2021-12-24 14:48:04.269956
+Mannheim,15:29,RNV 4A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:29 - Universität, Mannheim 15:31",15:29,,2021-12-24 14:48:04.271239
+Mannheim,15:29,Bus 65,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:29 - Schloss, Mannheim 15:32 - Universität West, Mannheim 15:33 - Akademiestraße, Mannheim 15:34 - Teufelsbrücke, Mannheim 15:35 - Popakademie, Mannheim 15:36",,,2021-12-24 14:48:04.272614
+Mannheim,15:30,S 3,11,Mannheim Hbf 15:30 - Mannheim-Friedrichsfeld Süd 15:37,15:31,,2021-12-24 14:48:04.273752
+Mannheim,15:31,ICE 519,5,Mannheim Hbf 15:31 - Stuttgart Hbf 16:08 - Ulm Hbf 17:10 - Augsburg Hbf 17:53 - München-Pasing 18:18 - München Hbf 18:27,15:39,Grund: Reparatur an der Strecke,2021-12-24 14:48:04.274882
+Mannheim,15:31,S 3,1,Mannheim Hbf 15:31 - Ludwigshafen(Rhein) Mitte 15:33,15:32,,2021-12-24 14:48:04.276003
+Mannheim,15:32,ICE 596,2,Mannheim Hbf 15:32 - Frankfurt(Main)Hbf 16:08 - Fulda 17:07 - Eisenach 18:00 - Erfurt Hbf 18:26 - Leipzig Hbf 19:10 - Lutherstadt Wittenberg Hbf 19:46 - Berlin Südkreuz 20:22 - Berlin Hbf (tief) 20:29 - Berlin Gesundbrunnen 20:41,15:35,,2021-12-24 14:48:04.277170
+Mannheim,15:32,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:32 - Lindenhof MA Hauptbahnhof Süd, Mannheim 15:34",15:32,,2021-12-24 14:48:04.278444
+Mannheim,15:33,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:33 - Tattersall, Mannheim 15:35",,,2021-12-24 14:48:04.279659
+Mannheim,15:33,Bus 60,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:33 - Universität, Mannheim 15:35 - Schloss, Mannheim 15:37 - Universität West, Mannheim 15:38",15:33,,2021-12-24 14:48:04.280907
+Mannheim,15:33,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:33 - Tattersall, Mannheim 15:35 - Kopernikusstraße, Mannheim 15:37 - Krappmühlstraße, Mannheim 15:38",15:33,,2021-12-24 14:48:04.282110
+Mannheim,15:35,RE 10a (19279),9,Mannheim Hbf 15:35 - Heidelberg Hbf 15:48 - Neckargemünd 15:59 - Eberbach 16:14 - Mosbach-Neckarelz 16:28 - Bad Friedrichshall Hbf 16:41 - Neckarsulm 16:46 - Heilbronn Hbf 16:51,15:35,,2021-12-24 14:48:04.283358
+Mannheim,15:35,RE 70 (4572),7a,Mannheim Hbf 15:35 - Mannheim-Luzenberg 15:44 - Mannheim-Waldhof 15:46,,Gleiswechsel,2021-12-24 14:48:04.284764
+Mannheim,15:35,ICE 371,4,Mannheim Hbf 15:35 - Karlsruhe Hbf 15:58 - Offenburg 16:30 - Freiburg(Breisgau) Hbf 17:00 - Basel Bad Bf 17:35 - Basel SBB 17:47 - Liestal 18:06 - Olten 18:25 - Bern 18:56 - Thun 19:23 - Spiez 19:33 - Interlaken West 19:52 - Interlaken Ost 19:58,15:37,Grund: Reparatur am Zug,2021-12-24 14:48:04.285961
+Mannheim,15:35,RNV 9,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:35 - Berliner Platz, Ludwigshafen am Rhein 15:39",15:35,,2021-12-24 14:48:04.287695
+Mannheim,15:36,ICE 106,3,Mannheim Hbf 15:36 - Frankfurt(M) Flughafen Fernbf 16:06 - Siegburg/Bonn 16:47 - Köln Hbf 17:04,15:36,,2021-12-24 14:48:04.289448
+Mannheim,15:36,S 9,12,Mannheim Hbf 15:36 - Mannheim-Neckarau 15:39,,,2021-12-24 14:48:04.291159
+Mannheim,15:36,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:36 - Universität, Mannheim 15:38",,,2021-12-24 14:48:04.292478
+Mannheim,15:36,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:36 - Kunsthalle, Mannheim 15:38",,,2021-12-24 14:48:04.294296
+Mannheim,15:38,S 1,11,Mannheim Hbf 15:38 - Mannheim ARENA/Maimarkt 15:42,15:39,,2021-12-24 14:48:04.295818
+Mannheim,15:38,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:38 - Kunsthalle, Mannheim 15:40",,,2021-12-24 14:48:04.297464
+Mannheim,15:38,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:38 - Universität, Mannheim 15:40",15:38,Änderung im Fahrtverlauf!,2021-12-24 14:48:04.299265
+Mannheim,15:39,RE 1 (4129),1,Mannheim Hbf 15:39 - Ludwigshafen(Rh)Hbf 15:43 - Neustadt(Weinstr)Hbf 15:59,,,2021-12-24 14:48:04.300614
+Mannheim,15:39,RNV 4,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:39 - Universität, Mannheim 15:41",,,2021-12-24 14:48:04.301913
+Mannheim,15:42,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:42 - Lindenhof MA Hauptbahnhof Süd, Mannheim 15:44",,,2021-12-24 14:48:04.303057
+Mannheim,15:43,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:43 - Tattersall, Mannheim 15:45",,,2021-12-24 14:48:04.304225
+Mannheim,15:44,S 6,11,Mannheim Hbf 15:44 - Ludwigshafen(Rhein) Mitte 15:46,,,2021-12-24 14:48:04.305271
+Mannheim,15:45,S 6,8,Mannheim Hbf 15:45 - Mannheim ARENA/Maimarkt 15:49,15:45,,2021-12-24 14:48:04.306297
+Mannheim,15:45,RNV 4,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:45 - Kunsthalle, Mannheim 15:47",15:45,,2021-12-24 14:48:04.307434
+Mannheim,15:46,STR 1,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:46 - Universität, Mannheim 15:48",,,2021-12-24 14:48:04.308778
+Mannheim,15:46,RNV 5A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:46 - Kunsthalle, Mannheim 15:47",,,2021-12-24 14:48:04.309976
+Mannheim,15:46,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:46 - Kunsthalle, Mannheim 15:48",,,2021-12-24 14:48:04.311256
+Mannheim,15:47,RNV 9,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:47 - Tattersall, Mannheim 15:49",15:47,,2021-12-24 14:48:04.312573
+Mannheim,15:48,STR 3,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:48 - Kunsthalle, Mannheim 15:50",15:48,,2021-12-24 14:48:04.313740
+Mannheim,15:48,RNV 5A,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:48 - Universität, Mannheim 15:50 - Schloss, Mannheim 15:51 - Paradeplatz, Mannheim 15:53 - Marktplatz, Mannheim 15:55 - Abendakademie, Mannheim 15:57",,,2021-12-24 14:48:04.314876
+Mannheim,15:48,RNV 5,"Hauptbahnhof, Mannheim","Hauptbahnhof, Mannheim 15:48 - Universität, Mannheim 15:50",,,2021-12-24 14:48:04.316116
