@@ -10,10 +10,9 @@ from scrapy.exceptions import DropItem
 
 
 class DbscrapperPipeline:
-
     def process_item(self, item, spider):
-        print(item)
-        if item['train'] is None:
+        # print(item)
+        if item["train"] is None:
             raise DropItem()
         else:
             for key in item:
@@ -23,7 +22,7 @@ class DbscrapperPipeline:
                     trimmed = " ".join(item[key].split())
 
                     # replace Unicode characters like ä
-                    #trimmed = trimmed.decode('unicode-escape')
+                    # trimmed = trimmed.decode('unicode-escape')
 
                     item[key] = trimmed
 
