@@ -6,7 +6,7 @@ import json
 
 
 class DBSpider(scrapy.Spider):
-    name = "multi_station"
+    name = "db_multi_station"
 
     def __init__(
         self,
