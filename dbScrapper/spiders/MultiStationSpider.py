@@ -34,7 +34,7 @@ class DBSpider(scrapy.Spider):
         while True:
             for station_name, url in self.stations.items():
                 request = scrapy.Request(url=url, callback=self.parse)
-                request.meta["station"] = self.station
+                request.meta["station"] = station_name
                 yield request
                 time.sleep(self.stations_interval)
             if self.scraping_interval < 0:
